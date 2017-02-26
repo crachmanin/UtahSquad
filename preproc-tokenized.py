@@ -38,12 +38,12 @@ def main():
     for topic in data['data']:
         for pgraph in topic['paragraphs']:
             context = pgraph['context']
-            c_tokens = nltk.word_tokenize(context)
+            c_tokens = nltk.word_tokenize(context)[:MAX_CLENGTH]
             # e_context = str(c_tokens).encode('utf-8')
             token_dict = get_token_idxs(context, c_tokens)
             for qa in pgraph['qas']:
                 question = qa['question']
-                q_tokens = nltk.word_tokenize(question)
+                q_tokens = nltk.word_tokenize(question)[:MAX_QLENGTH]
                 # e_question = str(question).encode('utf-8')
                 for ans in qa['answers']:
                     answer_start = ans['answer_start']
@@ -51,10 +51,11 @@ def main():
                     if answer_start in token_dict:
                         answer_idx = token_dict[answer_start][0]
                         # line = [e_context, e_question, str(answer_idx)]
-                        line = [c_tokens, q_tokens, str(answer_idx)]
-                        result.append(line)
+                        if answer_idx <= MAX_CLENGTH:
+                            line = [c_tokens, q_tokens, str(answer_idx)]
+                            result.append(line)
 
-    with open("train-preproc-tokenized.txt", 'w') as train_fp:
+    with open("train-preproc-tokenized.json", 'w') as train_fp:
         train_fp.write(json.dumps(result))
 
 
