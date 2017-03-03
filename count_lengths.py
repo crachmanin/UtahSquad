@@ -11,10 +11,10 @@ counts = Counter()
 data["data"][0]["paragraphs"][0]["qas"][0]["answers"][0]["text"]
 for topic in data['data']:
     for pgraph in topic['paragraphs']:
-        for qa in pgraph['qas']:
-            for ans in qa['answers']:
-                tokens = ans['text'].split()
-                counts[len(tokens)] += 1
+        l = len(pgraph['context'].split())
+            # for ans in qa['answers']:
+                # tokens = ans['text'].split()
+        counts[l] += 1
 
 print counts
 under_15 = 0.0
@@ -25,4 +25,7 @@ for c in counts:
     total += counts[c]
 
 print under_15/total
+minn = min(counts.keys())
+print minn
+print counts[minn]
 

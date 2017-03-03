@@ -1,0 +1,2056 @@
+(u'1854\u20131855', u'1854')
+[u'1854\u20131855', u'academic', u'year', u'.', u'The']
+[u'1854']
+
+(u'14-story', u'14')
+[u'14-story', u'Theodore', u'M.', u'Hesburgh', u'Library']
+[u'14']
+
+(u'80,795-seat', u'80,795')
+[u'80,795-seat', u'stadium', u'on', u'campus', u'.']
+[u'80,795']
+
+(u'Roberson', u'Rober')
+[u'split', u'with', u'Luckett', u'and', u'Roberson']
+[u'split', u'with', u'Luckett', u'and', u'Rober']
+
+(u'...', u'.')
+[u'Destiny', u'Fulfilled', u'...', u'and', u'Lovin']
+[u'Destiny', u'Fulfilled', u'.']
+
+(u'sixth', u'six')
+[u'sixth', u'number-one', u'for', u'both', u'Beyonc\xe9']
+[u'six']
+
+(u'romance-themed', u'romance')
+[u'romance-themed', u'songs', u'from', u'their', u'previous']
+[u'romance']
+
+(u'London-based', u'London')
+[u'London-based', u'fashion', u'retailer', u'Topshop', u',']
+[u'London']
+
+(u'infrastructure.\u201d', u'infrastructure')
+[u'language', u',', u'culture', u',', u'and']
+[u'language', u',', u'culture', u',', u'and', u'economic', u'infrastructure']
+
+(u'evolutionary', u'evolution')
+[u'evolutionary', u'processes', u'that', u'take', u'place']
+[u'evolution']
+
+(u'operatic', u'opera')
+[u'operatic', u'version', u'of', u'some', u'of']
+[u'opera']
+
+(u'basses', u'bass')
+[u'drone', u'basses', u'.', u'However', u',']
+[u'drone', u'bass']
+
+(u'intuitively', u'intuitive')
+[u'intuitively', u'rather', u'than', u'through', u'any']
+[u'intuitive']
+
+(u'Khitan-ruled', u'Khitan')
+[u'the', u'Khitan-ruled', u'Liao', u'dynasty', u'(']
+[u'the', u'Khitan']
+
+(u'Jurchen-ruled', u'Jurchen')
+[u'Jurchen-ruled', u'Jin', u'dynasty', u'(', u'1115\u20131234']
+[u'Jurchen']
+
+(u'Tibetan', u'Tibet')
+[u'Tibetan', u'princes', u',', u'and', u'that']
+[u'Tibet']
+
+(u'Karmapa\u2014one', u'Karmapa')
+[u'fifth', u'Karmapa\u2014one', u'which', u'he', u'hoped']
+[u'fifth', u'Karmapa']
+
+(u'Khan\u2014the', u'Khan')
+[u'the', u'great-grandson', u'of', u'Altan', u'Khan\u2014the']
+[u'the', u'great-grandson', u'of', u'Altan', u'Khan']
+
+(u'fifth-generation', u'fifth')
+[u'fifth-generation', u'iPod', u'Classic', u',', u'Apple']
+[u'fifth']
+
+(u'fourth-generation', u'fourth')
+[u'fourth-generation', u'iPod', u'Nano', u',', u'FireWire']
+[u'fourth']
+
+(u'30-pin', u'30')
+[u'30-pin', u'dock', u'connector', u'used', u'by']
+[u'30']
+
+(u'8-pin', u'8')
+[u'8-pin', u'dock', u'connector', u',', u'named']
+[u'8']
+
+(u'Nike+iPod', u'Nike')
+[u'Nike+iPod', u'pedometer', u'and', u'the', u'iPod']
+[u'Nike']
+
+(u'manually', u'manual')
+[u'manually', u'by', u'copying', u'the', u'files']
+[u'manual']
+
+(u'Wal-Mart\u2014and', u'Wal-Mart')
+[u'Wal-Mart\u2014and', u'these', u'iPods', u'eventually', u'made']
+[u'Wal-Mart']
+
+(u'Japanese', u'Japan')
+[u'Japanese', u'voice', u'actress', u'Akiko', u'K\u014dmoto']
+[u'Japan']
+
+(u'right-handed', u'right')
+[u'right-handed', u'swing', u'to', u'control', u'a']
+[u'right']
+
+(u'50-person', u'50')
+[u'50-person', u'orchestra', u'for', u'action', u'sequences']
+[u'50']
+
+(u'4th-best', u'4th')
+[u'4th-best', u'Wii', u'game', u'.', u'Nintendo']
+[u'4th']
+
+(u'third-best', u'third')
+[u'third-best', u'game', u'to', u'be', u'released']
+[u'third']
+
+(u'4th-best', u'4th')
+[u'4th-best', u'Wii', u'game', u'.', u'Nintendo']
+[u'4th']
+
+(u'Japan-exclusive', u'Japan')
+[u'Japan-exclusive', u'manga', u'series', u'based', u'on']
+[u'Japan']
+
+(u'twenty-fourth', u'twenty-four')
+[u'twenty-fourth', u'James', u'Bond', u'film', u'produced']
+[u'twenty-four']
+
+(u'Mallory', u'M')
+[u'Mallory', u"'s", u'promotion', u'to', u'M']
+[u'M']
+
+(u'City', u'C')
+[u'City', u'unofficially', u'ordered', u'by', u'a']
+[u'C']
+
+(u'Extortion\u2014and', u'Extortion')
+[u'SPecial', u'Executive', u'for', u'Counter-intelligence', u',']
+[u'SPecial', u'Executive', u'for', u'Counter-intelligence', u',', u'Terrorism', u',', u'Revenge', u'and', u'Extortion']
+
+(u',', u'.')
+[u'Warhead', u'2000', u'A.D.', u',', u'was']
+[u'Warhead', u'2000', u'A.D', u'.']
+
+(u'Productions\u2014with', u'Productions')
+[u'Eon', u'Productions\u2014with', u'MGM', u'acquiring', u'the']
+[u'Eon', u'Productions']
+
+(u'fourth', u'four')
+[u'fourth', u'appearance', u'as', u'James', u'Bond']
+[u'four']
+
+(u'sixth', u'six')
+[u'sixth', u'Bond', u'film', u'.', u'[']
+[u'six']
+
+(u'Shanghai\u20141,500', u'Shanghai')
+[u'Beijing', u'and', u'Shanghai\u20141,500', u'km', u'(']
+[u'Beijing', u'and', u'Shanghai']
+
+(u'280', u'2')
+[u'280', u'giant', u'pandas', u'.', u'However']
+[u'2']
+
+(u'15,600', u'15')
+[u'15,600', u'troops', u'and', u'militia', u'reservists']
+[u'15']
+
+(u'CCTV-1', u'CCTV')
+[u'CCTV-1', u'hosted', u'a', u'special', u'four-hour']
+[u'CCTV']
+
+(u'standards\u201d', u'standards')
+[u'up', u'to', u'international', u'standards\u201d', u'.']
+[u'up', u'to', u'international', u'standards']
+
+(u'York\u2014often', u'York')
+[u'New', u'York\u2014often', u'called', u'New', u'York']
+[u'New', u'York']
+
+(u'York\u2014often', u'York')
+[u'New', u'York\u2014often', u'called', u'New', u'York']
+[u'New', u'York']
+
+(u'York\u2014often', u'York')
+[u'New', u'York\u2014often', u'called', u'New', u'York']
+[u'New', u'York']
+
+(u'York\u2014often', u'York')
+[u'New', u'York\u2014often', u'called', u'New', u'York']
+[u'New', u'York']
+
+(u'ten-day', u'ten')
+[u'ten-day', u'exploration', u'of', u'the', u'area']
+[u'ten']
+
+(u'in', u'.')
+[u'William', u'F.', u'Buckley', u',', u'Jr.']
+[u'William', u'F.', u'Buckley', u',', u'Jr', u'.']
+
+(u'28-acre', u'28')
+[u'28-acre', u'(', u'110,000', u'm2', u')']
+[u'28']
+
+(u'27,673/km\xb2', u'27,673')
+[u'27,673/km\xb2', u')', u'makes', u'it', u'the']
+[u'27,673']
+
+(u'33.3', u'3')
+[u'33.3', u'%', u'non-Hispanic', u'white', u')']
+[u'3']
+
+(u'15,887/m\xb2', u'15,887')
+[u'$', u'15,887/m\xb2', u')', u'set', u'in']
+[u'$', u'15,887']
+
+(u'200', u'2')
+[u'200', u'newspapers', u'and', u'350', u'consumer']
+[u'2']
+
+(u'four-year', u'four')
+[u'four-year', u'terms', u'.', u'The', u'City']
+[u'four']
+
+(u'6-kilometer', u'6')
+[u'6-kilometer', u')', u'a', u'long', u'estuary']
+[u'6']
+
+(u'harmless\u2014like', u'harmless')
+[u'that', u'which', u'is', u'innocent', u'and']
+[u'that', u'which', u'is', u'innocent', u'and', u'harmless']
+
+(u'41st', u'41')
+[u'41st', u'week', u'on', u'the', u'bestseller']
+[u'41']
+
+(u'2015', u'20')
+[u'2015', u'.', u'This', u'draft', u',']
+[u'20']
+
+(u'2015', u'20')
+[u'2015', u'.', u'This', u'draft', u',']
+[u'20']
+
+(u'heat\u2014heat', u'heat')
+[u'any', u'material', u'that', u'can', u'be']
+[u'any', u'material', u'that', u'can', u'be', u'used', u'to', u'store', u'heat']
+
+(u'six-volume', u'six')
+[u'six-volume', u'work', u',', u'entitled', u'Die']
+[u'six']
+
+(u'categories\u2014shape', u'categories')
+[u'its', u'own', u'history', u',', u'language']
+[u'its', u'own', u'history', u',', u'language', u',', u'practices', u',', u'and', u'conceptual', u'categories']
+
+(u'group\u2014with', u'group')
+[u'cultural', u'group\u2014with', u'its', u'own', u'history']
+[u'cultural', u'group']
+
+(u'five-year', u'five')
+[u'five-year', u'term', u',', u'has', u'an']
+[u'five']
+
+(u'thirteen-member', u'thirteen')
+[u'thirteen-member', u'Constitutional', u'Court', u'oversees', u'the']
+[u'thirteen']
+
+(u'five-year', u'five')
+[u'five-year', u'term', u'by', u'direct', u',']
+[u'five']
+
+(u'areas\u2014the', u'areas')
+[u'Lisbon', u'and', u'Porto', u'metropolitan', u'areas\u2014the']
+[u'Lisbon', u'and', u'Porto', u'metropolitan', u'areas']
+
+(u'north\u2014after', u'north')
+[u'north\u2014after', u'the', u'1974', u'revolution', u'and']
+[u'north']
+
+(u'Fund\u2014the', u'Fund')
+[u'European', u'Commission', u',', u'European', u'Central']
+[u'European', u'Commission', u',', u'European', u'Central', u'Bank', u'and', u'International', u'Monetary', u'Fund']
+
+(u'32', u'3')
+[u'32', u'million', u'albums', u'and', u'100']
+[u'3']
+
+(u'32', u'3')
+[u'32', u'million', u'albums', u'and', u'100']
+[u'3']
+
+(u',', u'.')
+[u'No', u'I.D.', u',', u'with', u'whom']
+[u'No', u'I.D', u'.']
+
+(u'2004', u'2')
+[u'2004', u',', u'shooting', u'to', u'number']
+[u'2']
+
+(u'2004', u'2')
+[u'2004', u',', u'shooting', u'to', u'number']
+[u'2']
+
+(u'100', u'10')
+[u'100', u'chart', u'for', u'five', u'weeks']
+[u'10']
+
+(u'2008', u'2')
+[u'2008', u',', u'West', u'revealed', u'plans']
+[u'2']
+
+(u'2008', u'2')
+[u'2008', u',', u'West', u'revealed', u'plans']
+[u'2']
+
+(u'2002', u'2')
+[u'2002', u',', u'and', u'they', u'became']
+[u'2']
+
+(u'2013', u'2')
+[u'2013', u',', u'West', u'was', u'leaving']
+[u'2']
+
+(u'250,000', u'250')
+[u'250,000', u'and', u'shit', u'.', u"''"]
+[u'250']
+
+(u'353', u'3')
+[u'353', u'.']
+[u'3']
+
+(u'353', u'3')
+[u'353', u'.']
+[u'3']
+
+(u'4th', u'4')
+[u'4th', u'centuries', u'BCE', u'.', u'[']
+[u'4']
+
+(u'Buddhagho\u1e63a', u'Buddha')
+[u'Buddhagho\u1e63a', u'in', u'the', u'5th', u'century']
+[u'Buddha']
+
+(u'Buddhagho\u1e63a', u'Buddha')
+[u'Buddhagho\u1e63a', u'in', u'the', u'5th', u'century']
+[u'Buddha']
+
+(u'century', u'ce')
+[u'5th', u'century', u'CE', u'.', u'Earlier']
+[u'5th', u'ce']
+
+(u'sights\u2014he', u'sights')
+[u'the', u'four', u'sights\u2014he', u'learned', u'of']
+[u'the', u'four', u'sights']
+
+(u'sa\u1e43s\u0101ra\u2014the', u'sa\u1e43s\u0101ra')
+[u'the', u'force', u'that', u'drives', u'sa\u1e43s\u0101ra\u2014the']
+[u'the', u'force', u'that', u'drives', u'sa\u1e43s\u0101ra']
+
+(u'sa\u1e43s\u0101ra\u2014the', u'sa\u1e43s\u0101ra')
+[u'the', u'force', u'that', u'drives', u'sa\u1e43s\u0101ra\u2014the']
+[u'the', u'force', u'that', u'drives', u'sa\u1e43s\u0101ra']
+
+(u',', u'.')
+[u'``', u'suffering', u"''", u',', u'``']
+[u'``', u'suffering', u"''", u',', u'``', u'anxiety', u"''", u',', u'``', u'unsatisfactoriness', u"''", u',', u'``', u'unease', u"''", u',', u'etc', u'.']
+
+(u'Path\u2014the', u'Path')
+[u'The', u'Noble', u'Eightfold', u'Path\u2014the', u'fourth']
+[u'The', u'Noble', u'Eightfold', u'Path']
+
+(u'Eightfold', u'Eight')
+[u'Eightfold', u'Path\u2014the', u'fourth', u'of', u'the']
+[u'Eight']
+
+(u'behaviour\u2014mental', u'behaviour')
+[u'as', u'eight', u'significant', u'dimensions', u'of']
+[u'as', u'eight', u'significant', u'dimensions', u'of', u'one', u"'s", u'behaviour']
+
+(u'teachings\u2014which', u'teachings')
+[u'Sarvastivada', u'teachings\u2014which', u'were', u'criticized', u'by']
+[u'Sarvastivada', u'teachings']
+
+(u'vinayapitaka', u'vinaya')
+[u'vinayapitaka', u'(', u'scriptures', u'on', u'Vinaya']
+[u'vinaya']
+
+(u'personal', u'person')
+[u'personal', u',', u'``', u'adjusted', u'to']
+[u'person']
+
+(u'Christianity\u2014have', u'Christianity')
+[u'Christianity\u2014have', u'been', u'subjects', u'of', u'close']
+[u'Christianity']
+
+(u'fourteenth', u'fourteen')
+[u'fourteenth', u'season', u'.', u'During', u'the']
+[u'fourteen']
+
+(u'hairdo', u'hair')
+[u'hairdo', u',', u'and', u'for', u'managing']
+[u'hair']
+
+(u'fourth', u'four')
+[u'fourth', u'judge', u',', u'Kara', u'DioGuardi']
+[u'four']
+
+(u'joined', u'.')
+[u'Harry', u'Connick', u',', u'Jr.', u'joined']
+[u'Harry', u'Connick', u',', u'Jr', u'.']
+
+(u'six-year', u'six')
+[u'six-year', u'extended', u'streak', u'of', u'perfection']
+[u'six']
+
+(u'13.3', u'13')
+[u'13.3', u'million', u',', u'a', u'drop']
+[u'13']
+
+(u'million:225', u'million')
+[u'525', u'million:225', u'based', u'on', u'a']
+[u'525', u'million']
+
+(u'million:225', u'million')
+[u'525', u'million:225', u'based', u'on', u'a']
+[u'525', u'million']
+
+(u'fearlessness', u'fearless')
+[u'fearlessness', u'of', u'humans', u'and', u'buildings']
+[u'fearless']
+
+(u'breeding', u'breed')
+[u'breeding', u'have', u'reinforced', u'certain', u'characteristics']
+[u'breed']
+
+(u'emotional', u'emotion')
+[u'emotional', u'human', u'sounds', u',', u'making']
+[u'emotion']
+
+(u'hunting', u'hunt')
+[u'hunting', u'(', u'e.g', u'.', u'pointers']
+[u'hunt']
+
+(u'properties\u2014being', u'properties')
+[u'medicinal', u'properties\u2014being', u'good', u'for', u'the']
+[u'medicinal', u'properties']
+
+(u'150,000-strong', u'150,000')
+[u'150,000-strong', u'Tibetan', u'exile', u'community', u',']
+[u'150,000']
+
+(u'150,000-strong', u'150,000')
+[u'150,000-strong', u'Tibetan', u'exile', u'community', u',']
+[u'150,000']
+
+(u'three-volume', u'three')
+[u'three-volume', u'work', u'was', u'so', u'massive']
+[u'three']
+
+(u'three-fold', u'three')
+[u'three-fold', u'goal', u'of', u'living', u',']
+[u'three']
+
+(u'Iceland\u2019s', u'Iceland')
+[u'Iceland\u2019s', u'banking', u'collapse', u'is', u'the']
+[u'Iceland']
+
+(u'and', u'.')
+[u'recession', u'in', u'the', u'U.S.', u'and']
+[u'recession', u'in', u'the', u'U.S', u'.']
+
+(u'Holdings\u2014the', u'Holdings')
+[u'Clayton', u'Holdings\u2014the', u'largest', u'residential', u'loan']
+[u'Clayton', u'Holdings']
+
+(u'Geithner\u2014who', u'Geithner')
+[u'Timothy', u'Geithner\u2014who', u'in', u'2009', u'became']
+[u'Timothy', u'Geithner']
+
+(u'``', u"''")
+[u'``', u'Has', u'Financial', u'Development', u'Made']
+[u'``', u'Has', u'Financial', u'Development', u'Made', u'the', u'World', u'Riskier', u'?', u"''"]
+
+(u'Reserve\u2019s', u'Reserve')
+[u'Federal', u'Reserve\u2019s', u'failure', u'to', u'stem']
+[u'Federal', u'Reserve']
+
+(u'130,000-year-old', u'130,000')
+[u'130,000-year-old', u'Neanderthal', u'found', u'in', u'a']
+[u'130,000']
+
+(u'Bantu-speaking', u'Bantu')
+[u'Bantu-speaking', u'tribes', u',', u'who', u'built']
+[u'Bantu']
+
+(u'Bantu-speaking', u'Bantu')
+[u'Bantu-speaking', u'peoples', u'who', u'founded', u'tribes']
+[u'Bantu']
+
+(u'southwestern', u'southwest')
+[u'southwestern', u'portion', u'of', u'the', u'country']
+[u'southwest']
+
+(u'2004', u'20')
+[u'2004', u',', u'whereas', u'private', u'expenditure']
+[u'20']
+
+(u'Saxony-Anhalt', u'Saxony')
+[u'Saxony-Anhalt', u'and', u'Schleswig-Holstein', u'are', u'not']
+[u'Saxony']
+
+(u'three-year', u'three')
+[u'three-year', u'Diploma', u'degrees', u',', u'which']
+[u'three']
+
+(u'three-year', u'three')
+[u'three-year', u'diploma', u'courses', u'in', u'fields']
+[u'three']
+
+(u'sixth', u'six')
+[u'sixth', u'technical', u'university', u'is', u'about']
+[u'six']
+
+(u',', u'.')
+[u'Netbula', u',', u'LLC', u'v.', u'Chordiant']
+[u'Netbula', u',', u'LLC', u'v.', u'Chordiant', u'Software', u'Inc', u'.']
+
+(u'divisions\u2014the', u'divisions')
+[u'four', u'divisions\u2014the', u'2nd', u'Canadian', u'Division']
+[u'four', u'divisions']
+
+(u'Division\u2014the', u'Division')
+[u'the', u'5th', u'Canadian', u'Division\u2014the', u'Canadian']
+[u'the', u'5th', u'Canadian', u'Division']
+
+(u'Division\u2014the', u'Division')
+[u'the', u'5th', u'Canadian', u'Division\u2014the', u'Canadian']
+[u'the', u'5th', u'Canadian', u'Division']
+
+(u'Aramaic-derived', u'Aramaic')
+[u'Aramaic-derived', u'alphabets', u'which', u'had', u'ultimately']
+[u'Aramaic']
+
+(u'Islamic', u'Islam')
+[u'Islamic', u'Conquest', u'of', u'Persia', u'(']
+[u'Islam']
+
+(u'watt', u'w')
+[u'60', u'watt', u'incandescent', u'lamp', u'makes']
+[u'60', u'w']
+
+(u'known', u'kno')
+[u'known', u'as', u"'architectural", u'lighting', u'design']
+[u'kno']
+
+(u'another', u'ano')
+[u'another', u'metric', u'called', u'gamut', u'area']
+[u'ano']
+
+(u'24-hour', u'24')
+[u'24-hour', u'light-dark', u'pattern', u'that', u'mimics']
+[u'24']
+
+(u'notes', u'no')
+[u'notes', u',', u'and', u'took', u'fewer']
+[u'no']
+
+(u'notes', u'no')
+[u'notes', u',', u'and', u'took', u'fewer']
+[u'no']
+
+(u'lighting', u'light')
+[u'lighting', u'is', u'a', u'critical', u'part']
+[u'light']
+
+(u'UK-based', u'UK')
+[u'UK-based', u'trade', u'organisation', u'representing', u'the']
+[u'UK']
+
+(u'quasi-judicial\u2014often', u'quasi-judicial')
+[u'quasi-judicial\u2014often', u'have', u'direct', u'Congressional', u'oversight']
+[u'quasi-judicial']
+
+(u'power\u2014the', u'power')
+[u'Judicial', u'power\u2014the', u'power', u'to', u'decide']
+[u'Judicial', u'power']
+
+(u'architecture', u'architect')
+[u'architecture', u'is', u'De', u'architectura', u',']
+[u'architect']
+
+(u'Architecture', u'Architect')
+[u'Architecture', u"''", u'.']
+[u'Architect']
+
+(u'environmentally', u'environment')
+[u'environmentally', u'friendly', u'in', u'terms', u'of']
+[u'environment']
+
+(u'Inequality-adjusted', u'Inequality')
+[u'Inequality-adjusted', u'Human', u'Development', u'Index', u'(']
+[u'Inequality']
+
+(u'dashes', u'dash')
+[u'Blue', u'dashes', u'(', u')', u'represent']
+[u'Blue', u'dash']
+
+(u'240-line', u'240')
+[u'240-line', u'Baird', u'intermediate', u'film', u'system']
+[u'240']
+
+(u'405-line', u'405')
+[u'405-line', u'Marconi-EMI', u'system', u',', u'each']
+[u'405']
+
+(u'Gaelic-speaking', u'Gaelic')
+[u'Gaelic-speaking', u'viewers', u',', u'including', u'current']
+[u'Gaelic']
+
+(u'Austrian/United', u'Austrian')
+[u'Austrian/United', u'States', u'citizen', u'.', u'He']
+[u'Austrian']
+
+(u'and', u'.')
+[u'Oak', u'Productions', u',', u'Inc.', u'and']
+[u'Oak', u'Productions', u',', u'Inc', u'.']
+
+(u'Plymouth-born', u'Plymouth')
+[u'Plymouth-born', u'Michael', u'Foot', u'was', u'elected']
+[u'Plymouth']
+
+(u'2009-10', u'20')
+[u'2009-10', u'which', u',', u'in', u'early']
+[u'20']
+
+(u',', u'.')
+[u'Plymouth', u'Argyle', u'F.C.', u',', u'who']
+[u'Plymouth', u'Argyle', u'F.C', u'.']
+
+(u'northern', u'north')
+[u'northern', u'outskirts', u'of', u'the', u'city']
+[u'north']
+
+(u'European', u'Europe')
+[u'Western', u'European', u'powers', u'.']
+[u'Western', u'Europe']
+
+(u'1957', u'195')
+[u'December', u'6', u',', u'1957', u'Project']
+[u'December', u'6', u',', u'195']
+
+(u'400-kilogram', u'4')
+[u'400-kilogram', u'(', u'880', u'lb', u')']
+[u'4']
+
+(u'N1/L3', u'N1')
+[u'N1/L3', u',', u'for', u'its', u'N1']
+[u'N1']
+
+(u'alcohol-serving', u'alcohol')
+[u'alcohol-serving', u'establishments', u';', u'and', u'restaurants']
+[u'alcohol']
+
+(u'1659-d.', u'1659')
+[u'1659-d.', u'Great', u'Marlow', u'Buckinghamshire', u'1742']
+[u'1659']
+
+(u'11th-century', u'11th')
+[u'11th-century', u'structure', u'on', u'an', u'8th-century']
+[u'11th']
+
+(u'Denmark\u2014a', u'Denmark')
+[u'Denmark\u2014a', u'country', u',', u'like', u'Britain']
+[u'Denmark']
+
+(u'Nasara\u2014was', u'Nasara')
+[u'the', u'first', u'letter', u'of', u'Nasara\u2014was']
+[u'the', u'first', u'letter', u'of', u'Nasara']
+
+(u'General', u'Ge')
+[u'General', u'Electric', u',', u'who', u'then']
+[u'Ge']
+
+(u'27,000', u'2')
+[u'27,000', u')', u';', u'University', u'of']
+[u'2']
+
+(u'University\u2013Oklahoma', u'University')
+[u'Oklahoma', u'State', u'University\u2013Oklahoma', u'City', u'is']
+[u'Oklahoma', u'State', u'University']
+
+(u'34-county', u'34')
+[u'34-county', u'area', u'serving', u'the', u'central']
+[u'34']
+
+(u'35', u'3')
+[u'35', u',', u'Interstate', u'40', u',']
+[u'3']
+
+(u'three-person', u'three')
+[u'three-person', u'U.S', u'State', u'Department', u'fact-finding']
+[u'three']
+
+(u'Prussia\u2014was', u'Prussia')
+[u'East', u'Prussia\u2014was', u'annexed', u'by', u'the']
+[u'East', u'Prussia']
+
+(u'25\u2014just', u'25')
+[u'December', u'25\u2014just', u'hours', u'after', u'Gorbachev']
+[u'December', u'25']
+
+(u'Edison-backed', u'Edison')
+[u'Edison-backed', u'Motion', u'Picture', u'Trust', u'meant']
+[u'Edison']
+
+(u'0.9-km\xb2', u'0.9')
+[u'0.9-km\xb2', u')', u'converted', u'farm', u'just']
+[u'0.9']
+
+(u'Disney-produced', u'Disney')
+[u'Disney-produced', u'Oswald', u'cartoons', u',', u'along']
+[u'Disney']
+
+(u'21st', u'21')
+[u'21st', u'birthday', u'present', u'.', u'Universal']
+[u'21']
+
+(u'13-year-old', u'13')
+[u'13-year-old', u'Gloria', u'Jean', u'for', u'her']
+[u'13']
+
+(u'1943\u201345', u'1943')
+[u'1943\u201345', u')', u'.', u'Alfred', u'Hitchcock']
+[u'1943']
+
+(u',', u'.')
+[u'Universal', u'City', u'Studios', u',', u'Inc.']
+[u'Universal', u'City', u'Studios', u',', u'Inc', u'.']
+
+(u'sold', u'.')
+[u'Edgar', u'Bronfman', u'Jr.', u'sold', u'Universal']
+[u'Edgar', u'Bronfman', u'Jr', u'.']
+
+(u'million-budgeted', u'million')
+[u'$', u'40', u'million-budgeted', u'film', u'that']
+[u'$', u'40', u'million']
+
+(u',', u'.')
+[u'Universal', u'Productions', u'France', u'S.A.', u',']
+[u'Universal', u'Productions', u'France', u'S.A', u'.']
+
+(u'patent', u'.')
+[u'U.S.', u'patent', u'for', u'the', u'telephone']
+[u'U.S', u'.']
+
+(u'12', u'1')
+[u'12', u']', u'The', u'basic', u'concept']
+[u'1']
+
+(u'negatively', u'negative')
+[u'negatively', u'by', u'those', u'embracing', u'Deaf']
+[u'negative']
+
+(u'signing\u2014the', u'signing')
+[u'signing\u2014the', u'only', u'language', u'they', u'knew\u2014in']
+[u'signing']
+
+(u'15-year-old', u'15')
+[u'15-year-old', u'Mabel', u'Hubbard', u'.', u'Each']
+[u'15']
+
+(u'pen-like', u'pen')
+[u'pen-like', u'machine', u'that', u'could', u'draw']
+[u'pen']
+
+(u'15', u'1')
+[u'15', u']', u'and', u'the', u'two']
+[u'1']
+
+(u'Watson\u2014Come', u'Watson')
+[u'Mr.', u'Watson\u2014Come', u'here\u2014I', u'want', u'to']
+[u'Mr.', u'Watson']
+
+(u'587', u'5')
+[u'587', u'court', u'challenges', u'to', u'its']
+[u'5']
+
+(u'100', u'10')
+[u'100', u'Greatest', u'Britons', u'(', u'2002']
+[u'10']
+
+(u'transmitted\u2014data', u'transmitted')
+[u'routing', u'of', u'data', u'between', u'each']
+[u'routing', u'of', u'data', u'between', u'each', u'network', u',', u'without', u'charging', u'one', u'another', u'for', u'the', u'data', u'transmitted']
+
+(u'magazines\u2014monthly', u'magazines')
+[u'magazines\u2014monthly', u'or', u'weekly', u'in', u'Europe']
+[u'magazines']
+
+(u'fiction\u2014', u'fiction')
+[u'fiction\u2014', u"''", u'graphic', u'novel', u"''"]
+[u'fiction']
+
+(u'novel\u2014book-length', u'novel')
+[u'graphic', u'novel\u2014book-length', u'comics\u2014began', u'to', u'gain']
+[u'graphic', u'novel']
+
+(u'prestige-format', u'prestige')
+[u'prestige-format', u'adult', u'comics', u'.']
+[u'prestige']
+
+(u'canvas\u2014meaning', u'canvas')
+[u'infinite', u'canvas\u2014meaning', u'they', u'are', u'not']
+[u'infinite', u'canvas']
+
+(u'III', u'I')
+[u'Napoleon', u'III', u'successfully', u'gained', u'the']
+[u'Napoleon', u'I']
+
+(u'158', u'15')
+[u'158', u'votes', u'to', u'42', u'on']
+[u'15']
+
+(u'3,200', u'3')
+[u'3,200', u'short-term', u'visitors', u'arrived', u'on']
+[u'3']
+
+(u'1967', u'1')
+[u'1967', u',', u'provided', u'a', u'local']
+[u'1']
+
+(u'10/3.6', u'1')
+[u'10/3.6', u'Mbit/s', u'internet', u'link', u'via']
+[u'1']
+
+(u'ADSL-broadband', u'ADSL')
+[u'ADSL-broadband', u'service', u'is', u'provided', u'with']
+[u'ADSL']
+
+(u'four-way', u'four')
+[u'four-way', u'distinction', u'in', u'stops', u':']
+[u'four']
+
+(u'three-way', u'three')
+[u'three-way', u'distinction', u'at', u'one', u'point']
+[u'three']
+
+(u'Hydrogen', u'H')
+[u'Hydrogen', u'is', u'a', u'chemical', u'element']
+[u'H']
+
+(u'100', u'1')
+[u'100', u'binary', u'borane', u'hydrides', u'known']
+[u'1']
+
+(u'higher', u'high')
+[u'higher', u'education', u'and', u'medicine', u',']
+[u'high']
+
+(u'Revolution\u2014the', u'Revolution')
+[u'the', u'American', u'Revolution\u2014the', u'Boston', u'Massacre']
+[u'the', u'American', u'Revolution']
+
+(u'Revolution\u2014the', u'Revolution')
+[u'the', u'American', u'Revolution\u2014the', u'Boston', u'Massacre']
+[u'the', u'American', u'Revolution']
+
+(u'Brahmins\u2014coming', u'Brahmins')
+[u'Boston', u'Brahmins\u2014coming', u'to', u'be', u'regarded']
+[u'Boston', u'Brahmins']
+
+(u'Brahmins\u2014coming', u'Brahmins')
+[u'Boston', u'Brahmins\u2014coming', u'to', u'be', u'regarded']
+[u'Boston', u'Brahmins']
+
+(u'227,000', u'22')
+[u'227,000', u'within', u'the', u'Boston', u'metro']
+[u'22']
+
+(u'fourth-largest', u'four')
+[u'fourth-largest', u'employer', u')', u'with', u'its']
+[u'four']
+
+(u'MBTA\u2014known', u'MBTA')
+[u'MBTA\u2014known', u'as', u'the', u'``', u'T']
+[u'MBTA']
+
+(u'Transportation', u'T')
+[u'Transportation', u'Authority', u'(', u'MBTA\u2014known', u'as']
+[u'T']
+
+(u'Greek-speaking', u'Greek')
+[u'Greek-speaking', u'Orthodox', u'have', u'collected', u'canons']
+[u'Greek']
+
+(u'Hargeisa-based', u'Hargeisa')
+[u'Hargeisa-based', u'telecommunications', u'firm', u'specialising', u'in']
+[u'Hargeisa']
+
+(u'Postal', u'Post')
+[u'Somali', u'Postal', u'Service', u'(', u'Somali']
+[u'Somali', u'Post']
+
+(u'Postal', u'Post')
+[u'Somali', u'Postal', u'Service', u'(', u'Somali']
+[u'Somali', u'Post']
+
+(u'Mogadishu-based', u'Mogadishu')
+[u'Mogadishu-based', u'Somali', u'National', u'Television', u'is']
+[u'Mogadishu']
+
+(u'216', u'2')
+[u'216', u'system', u'used', u'in', u'most']
+[u'2']
+
+(u'68-yard', u'68')
+[u'68-yard', u'field', u'(', u'about', u'half']
+[u'68']
+
+(u'2015', u'2')
+[u'2015', u'season', u',', u'the', u'league']
+[u'2']
+
+(u'1988\u20131993', u'1988')
+[u'1988\u20131993', u')', u'.', u'The', u'AFL']
+[u'1988']
+
+(u'64\u201340', u'64')
+[u'64\u201340', u'in', u'front', u'of', u'a']
+[u'64']
+
+(u'two-year', u'two')
+[u'two-year', u'partnership', u'.']
+[u'two']
+
+(u'eight-team', u'eight')
+[u'eight-team', u'league', u'playing', u'a', u'16-game']
+[u'eight']
+
+(u'six-team', u'six')
+[u'six-team', u'collegiate', u'tournament', u'staged', u'in']
+[u'six']
+
+(u'20-30', u'20')
+[u'20-30', u'%', u'vocal', u'mix', u'.']
+[u'20']
+
+(u'AC-styled', u'AC')
+[u'soft', u'AC-styled', u'music', u'.', u'For']
+[u'soft', u'AC']
+
+(u',', u'.')
+[u'D.H.T.', u',', u'and', u'``', u'Everytime']
+[u'D.H.T', u'.']
+
+(u'1960s/70s', u'1960s')
+[u'1960s/70s', u'onwards', u')', u',', u'primarily']
+[u'1960s']
+
+(u'Tenor', u'Ten')
+[u'Tenor', u'bell', u'in', u'D', u'(']
+[u'Ten']
+
+(u'Chinese', u'Ch')
+[u'Chinese', u':', u'\u5357\u4eac', u',', u'``']
+[u'Ch']
+
+(u'been', u'b')
+[u'been', u'a', u'major', u'centre', u'of']
+[u'b']
+
+(u'tiger-like', u'tiger')
+[u'tiger-like', u'Stone', u'Mountain', u'is', u'crouching']
+[u'tiger']
+
+(u'non-obligatory', u'non')
+[u'non-obligatory', u'kindergarten', u',', u'followed', u'by']
+[u'non']
+
+(u'Zealander', u'Zealand')
+[u'New', u'Zealander', u'George', u'Hudson', u'proposed']
+[u'New', u'Zealand']
+
+(u'extremely', u'extreme')
+[u'extremely', u'throughout', u'the', u'seasons', u'(']
+[u'extreme']
+
+(u'golfer', u'golf')
+[u'golfer', u',', u'vetoed', u'the', u'repeal']
+[u'golf']
+
+(u'wintertime', u'winter')
+[u'wintertime', u'morning', u',', u'and', u'thus']
+[u'winter']
+
+(u'1987\u20132006', u'1987')
+[u'1987\u20132006', u'and', u'post-2006', u'time', u'stamps']
+[u'1987']
+
+(u'indirectly', u'indirect')
+[u'indirectly', u',', u'a', u'bribe', u'or']
+[u'indirect']
+
+(u'localizing', u'local')
+[u'localizing', u'information', u'gathered', u'to', u'specific']
+[u'local']
+
+(u'Latin-derived', u'Latin')
+[u'Latin-derived', u'Florentine', u'Tuscan', u'language', u'.']
+[u'Latin']
+
+(u'Latin-based', u'Latin')
+[u'Latin-based', u'Romance', u'languages', u',', u'with']
+[u'Latin']
+
+(u'ensemble\u2014and', u'ensemble')
+[u'the', u'symphony', u'ensemble\u2014and', u'the', u'works']
+[u'the', u'symphony', u'ensemble']
+
+(u'1830s\u2014the', u'1830s')
+[u'the', u'early', u'1830s\u2014the', u'era', u'of']
+[u'the', u'early', u'1830s']
+
+(u'harpist', u'harp')
+[u'harpist', u'.', u"''", u'As', u'of']
+[u'harp']
+
+(u'Bros.', u'Bros')
+[u'Warner', u'Bros.', u"'", u'Rabbit', u'of']
+[u'Warner', u'Bros']
+
+(u'Bros.', u'Bros')
+[u'Warner', u'Bros.', u"'", u'Rabbit', u'of']
+[u'Warner', u'Bros']
+
+(u'*\u1e31lew-', u'*\u1e31lew')
+[u'*\u1e31lew-', u'(', u'``', u'be', u'spoken']
+[u'*\u1e31lew']
+
+(u'1175\u2014culminated', u'1175')
+[u'1175\u2014culminated', u'in', u'the', u'completion', u'of']
+[u'1175']
+
+(u'Test\u2014which', u'Test')
+[u'Test\u2014which', u'has', u'salt', u'marsh', u'that']
+[u'Test']
+
+(u'White\u2014including', u'White')
+[u'White\u2014including', u'one', u'per', u'cent', u'White']
+[u'White']
+
+(u'peacefully', u'peaceful')
+[u'peacefully', u'resolved', u'.']
+[u'peaceful']
+
+(u'regional', u'region')
+[u'regional', u'.', u'[', u'citation', u'needed']
+[u'region']
+
+(u'invalidated\u2014considered', u'invalidated')
+[u'invalidated\u2014considered', u'unenforceable', u'and', u'void', u'under']
+[u'invalidated']
+
+(u'67-member', u'67')
+[u'67-member', u'``', u'presidency', u"''", u'was']
+[u'67']
+
+(u'Presidents', u'.')
+[u'U.S.', u'Presidents', u'Dwight', u'D.', u'Eisenhower']
+[u'U.S', u'.']
+
+(u'Presidents', u'.')
+[u'U.S.', u'Presidents', u'Dwight', u'D.', u'Eisenhower']
+[u'U.S', u'.']
+
+(u'Francisco-based', u'Francisco')
+[u'San', u'Francisco-based', u'ships', u'Glencoe', u'and']
+[u'San', u'Francisco']
+
+(u'sole', u'.')
+[u'the', u'U.S.', u'sole', u'responsibility', u'for']
+[u'the', u'U.S', u'.']
+
+(u'nobility', u'no')
+[u'nobility', u'.']
+[u'no']
+
+(u'Great:207', u'Great')
+[u'Alexander', u'the', u'Great:207', u'or', u'regional']
+[u'Alexander', u'the', u'Great']
+
+(u':430', u':')
+[u'Lechici/Lekhi', u'(', u'Lechit\xf3w', u')', u':430']
+[u'Lechici/Lekhi', u'(', u'Lechit\xf3w', u')', u':']
+
+(u'representatives\u2014in', u'representatives')
+[u'disobey', u'the', u'King', u'or', u'his']
+[u'disobey', u'the', u'King', u'or', u'his', u'representatives']
+
+(u'documents\u2014the', u'documents')
+[u'two', u'documents\u2014the', u'Pacta', u'conventa', u'(']
+[u'two', u'documents']
+
+(u'nobility', u'no')
+[u'nobility', u'.']
+[u'no']
+
+(u'Italy\u2014in', u'Italy')
+[u'fulfill', u'his', u'destiny', u'and', u'arrive']
+[u'fulfill', u'his', u'destiny', u'and', u'arrive', u'on', u'the', u'shores', u'of', u'Italy']
+
+(u'Eclogue\u2014widely', u'Eclogue')
+[u'Fourth', u'Eclogue\u2014widely', u'interpreted', u'later', u'to']
+[u'Fourth', u'Eclogue']
+
+(u'European', u'Europe')
+[u'continental', u'European', u'origin', u',', u'above']
+[u'continental', u'Europe']
+
+(u'trees\u2014oak', u'trees')
+[u'chief', u'deciduous', u'trees\u2014oak', u',', u'beech']
+[u'chief', u'deciduous', u'trees']
+
+(u'Austrian-born', u'Austrian')
+[u'Austrian-born', u'Adolf', u'Hitler', u'had', u'a']
+[u'Austrian']
+
+(u'``', u"''")
+[u'``', u'that', u'which', u'segregates', u'and']
+[u'``', u'that', u'which', u'segregates', u'and', u'recombines', u'with', u'appreciable', u'frequency', u'.', u"''"]
+
+(u'IMF-backed', u'IMF')
+[u'IMF-backed', u'structural', u'reform', u'program', u'.']
+[u'IMF']
+
+(u'HIV-infection', u'HIV')
+[u'HIV-infection', u'among', u'the', u'adult', u'population']
+[u'HIV']
+
+(u'228th', u'228')
+[u'228th', u'Street', u'.', u'However', u',']
+[u'228']
+
+(u'263rd', u'263')
+[u'263rd', u'Street', u'.', u'The', u'lowest']
+[u'263']
+
+(u'C.', u'C')
+[u'C.', u'The', u'second', u'starts', u'at']
+[u'C']
+
+(u'km/1.9m', u'km')
+[u'3.1', u'km/1.9m', u'.', u'It', u'has']
+[u'3.1', u'km']
+
+(u'University\u2019s', u'University')
+[u'Columbia', u'University\u2019s', u'Morningside', u'Heights', u'Campus']
+[u'Columbia', u'University']
+
+(u'Boulevard', u'.')
+[u'Adam', u'Clayton', u'Powell', u'Jr.', u'Boulevard']
+[u'Adam', u'Clayton', u'Powell', u'Jr', u'.']
+
+(u'body\u2014the', u'body')
+[u'The', u'ability', u'of', u'an', u'animal']
+[u'The', u'ability', u'of', u'an', u'animal', u'to', u'regulate', u'the', u'internal', u'environment', u'of', u'its', u'body']
+
+(u'southeastward', u'southeast')
+[u'southeastward', u'to', u'the', u'region', u'centered']
+[u'southeast']
+
+(u'mid-2015', u'mid')
+[u'mid-2015', u'the', u'government', u'of', u'Zhejiang']
+[u'mid']
+
+(u'European', u'Europe')
+[u'European', u'standards', u'did', u'not', u'follow']
+[u'Europe']
+
+(u'Somali-inhabited', u'Somali')
+[u'Somali-inhabited', u'Northern', u'Frontier', u'District', u'(']
+[u'Somali']
+
+(u'Afro-Asiatic-speaking', u'Afro-Asiatic')
+[u'Afro-Asiatic-speaking', u'groups', u'in', u'Northeast', u'Africa']
+[u'Afro-Asiatic']
+
+(u'centuries-old', u'centuries')
+[u'centuries-old', u'ties', u'with', u'the', u'Arab']
+[u'centuries']
+
+(u'sarong-like', u'sarong')
+[u'sarong-like', u'garment', u'worn', u'around', u'the']
+[u'sarong']
+
+(u'five-pointed', u'five')
+[u'five-pointed', u'Star', u'of', u'Unity', u'in']
+[u'five']
+
+(u'Empire\u2014came', u'Empire')
+[u'the', u'Eastern', u'Roman', u'Empire\u2014came', u'under']
+[u'the', u'Eastern', u'Roman', u'Empire']
+
+(u'284\u2013305', u'284')
+[u'284\u2013305', u')', u'split', u'the', u'empire']
+[u'284']
+
+(u'590\u2013604', u'590')
+[u'590\u2013604', u')', u'survived', u',', u'and']
+[u'590']
+
+(u'752\u2013757', u'752')
+[u'752\u2013757', u')', u'.', u'Pippin', u"'s"]
+[u'752']
+
+(u'three-year', u'three')
+[u'three-year', u'civil', u'war', u'followed', u'his']
+[u'three']
+
+(u'871\u2013899', u'871')
+[u'871\u2013899', u')', u'came', u'to', u'an']
+[u'871']
+
+(u'867\u2013886', u'867')
+[u'867\u2013886', u')', u'and', u'his', u'successors']
+[u'867']
+
+(u'1198\u20131216', u'1198')
+[u'1198\u20131216', u')', u'.', u'Northern', u'Crusades']
+[u'1198']
+
+(u'1084\u20131105', u'1084')
+[u'1084\u20131105', u')', u'over', u'church', u'appointments']
+[u'1084']
+
+(u'1049\u20131054', u'1049')
+[u'1049\u20131054', u')', u',', u'and', u'provided']
+[u'1049']
+
+(u'1327\u201377', u'1327')
+[u'1327\u201377', u')', u'and', u'his', u'son']
+[u'1327']
+
+(u',', u'.')
+[u'Alamin', u'M.', u'Mazrui', u'et', u'al.']
+[u'Alamin', u'M.', u'Mazrui', u'et', u'al', u'.']
+
+(u'Niger-Congo-speaking', u'Niger-Congo')
+[u'Niger-Congo-speaking', u'Nuba', u'groups', u'of', u'the']
+[u'Niger-Congo']
+
+(u'164-page', u'164')
+[u'164-page', u'monthly', u'magazine', u'is', u'sold']
+[u'164']
+
+(u'p.m.', u'p.m')
+[u'11', u'p.m.', u',', u'two', u'hours']
+[u'11', u'p.m']
+
+(u'English-speaking', u'English')
+[u'English-speaking', u'workforce', u'that', u'has', u'attracted']
+[u'English']
+
+(u'Imam-in-Concealment', u'Imam')
+[u'manages', u'the', u'affairs', u'of', u'the']
+[u'manages', u'the', u'affairs', u'of', u'the', u'Imam']
+
+(u'40-year-old', u'40-year')
+[u'40-year-old', u'monopoly', u'that', u'Atlantic', u'City']
+[u'40-year']
+
+(u'and', u'.')
+[u'Sisvel', u'S.p.A.', u'and', u'its', u'U.S.']
+[u'Sisvel', u'S.p.A', u'.']
+
+(u'York\u2013based', u'York')
+[u'New', u'York\u2013based', u'performers', u'such', u'as']
+[u'New', u'York']
+
+(u'European', u'Europe')
+[u'European', u'languages', u',', u'except', u'for']
+[u'Europe']
+
+(u'care/biotechnology', u'care')
+[u'aerospace', u'and', u'health', u'care/biotechnology', u',']
+[u'aerospace', u'and', u'health', u'care']
+
+(u'1970s\u2014many', u'1970s')
+[u'throughout', u'the', u'1970s\u2014many', u'by', u'real']
+[u'throughout', u'the', u'1970s']
+
+(u'Hines\u2014culminating', u'Hines')
+[u'Gerald', u'D.', u'Hines\u2014culminating', u'with', u'Houston']
+[u'Gerald', u'D.', u'Hines']
+
+(u'U.S.', u'U.S')
+[u'third', u'in', u'the', u'U.S.', u'within']
+[u'third', u'in', u'the', u'U.S']
+
+(u'city\u2014including', u'city')
+[u'the', u'city\u2014including', u'the', u'Houston', u'Arboretum']
+[u'the', u'city']
+
+(u'Press\u2014a', u'Press')
+[u'Houston', u'Press\u2014a', u'free', u'alternative', u'weekly']
+[u'Houston', u'Press']
+
+(u'Lahaulis.The', u'Lahaulis')
+[u'Kinnars', u',', u'Pangawals', u',', u'Sulehria']
+[u'Kinnars', u',', u'Pangawals', u',', u'Sulehria', u',', u'and', u'Lahaulis']
+
+(u'who', u'.')
+[u'Robert', u'Tappan', u'Morris', u',', u'Jr.']
+[u'Robert', u'Tappan', u'Morris', u',', u'Jr', u'.']
+
+(u'yeast\u2014either', u'yeast')
+[u'yeast\u2014either', u'by', u'being', u'unfiltered', u',']
+[u'yeast']
+
+(u'yeast\u2014either', u'yeast')
+[u'yeast\u2014either', u'by', u'being', u'unfiltered', u',']
+[u'yeast']
+
+(u'Choujiu\u2014traditional', u'Choujiu')
+[u'Choujiu\u2014traditional', u'rice-based', u'beverages', u'related', u'to']
+[u'Choujiu']
+
+(u'unchilled\u2014either', u'unchilled')
+[u'unchilled\u2014either', u'cool', u'or', u'at', u'room']
+[u'unchilled']
+
+(u'Philippine-sized', u'Philippine')
+[u'Philippine-sized', u'currency', u'because', u'the', u'Philippines']
+[u'Philippine']
+
+(u'rope\u2014on', u'rope')
+[u'ball', u',', u'ribbon', u',', u'hoop']
+[u'ball', u',', u'ribbon', u',', u'hoop', u',', u'clubs', u',', u'rope']
+
+(u'rope\u2014on', u'rope')
+[u'ball', u',', u'ribbon', u',', u'hoop']
+[u'ball', u',', u'ribbon', u',', u'hoop', u',', u'clubs', u',', u'rope']
+
+(u'slept\u2014one', u'slept')
+[u'reptiles', u'slept\u2014one', u'explanation', u'for', u'why']
+[u'reptiles', u'slept']
+
+(u'25th', u'25')
+[u'25th', u'time', u'.', u'A', u'historic']
+[u'25']
+
+(u'football-related', u'football')
+[u'ban', u'from', u'all', u'football-related', u'activity']
+[u'ban', u'from', u'all', u'football']
+
+(u'CATOBAR-type', u'CATOBAR')
+[u'CATOBAR-type', u'carrier', u'that', u'uses', u'two']
+[u'CATOBAR']
+
+(u'II\u2013era', u'II')
+[u'World', u'War', u'II\u2013era', u'USS', u'Enterprise']
+[u'World', u'War', u'II']
+
+(u'Clemenceau-class', u'Clemenceau')
+[u'Clemenceau-class', u'aircraft', u'carrier', u'currently', u'in']
+[u'Clemenceau']
+
+(u'Lancashire-born', u'Lancashire')
+[u'Lancashire-born', u'minstrel', u'Richard', u'Sheale', u'.']
+[u'Lancashire']
+
+(u'1932-', u'1932')
+[u'1932-', u'Parbold', u')', u',', u'Sir']
+[u'1932']
+
+(u',', u'.')
+[u'PictureTel', u'Corp.', u',', u'which', u'had']
+[u'PictureTel', u'Corp', u'.']
+
+(u'City-based', u'City')
+[u'New', u'York', u'City-based', u'husband-and-wife', u'songwriting']
+[u'New', u'York', u'City']
+
+(u'Social', u'.')
+[u'U.S.', u'Social', u'Security', u'Administration', u'(']
+[u'U.S', u'.']
+
+(u'office\u2014probably', u'office')
+[u'consuls', u'first', u'entered', u'office\u2014probably', u'1']
+[u'consuls', u'first', u'entered', u'office']
+
+(u'4,000-point', u'4,000')
+[u'1,600', u'and', u'4,000-point', u'denominations', u'.']
+[u'1,600', u'and', u'4,000']
+
+(u'(', u'.')
+[u'Exile', u'on', u'Main', u'St.', u'(']
+[u'Exile', u'on', u'Main', u'St', u'.']
+
+(u'red-shifted', u'red')
+[u'red-shifted', u'objects', u'from', u'the', u'early']
+[u'red']
+
+(u'explosion\u2014a', u'explosion')
+[u'the', u'Cambrian', u'explosion\u2014a', u'period', u'during']
+[u'the', u'Cambrian', u'explosion']
+
+(u'explosion\u2014a', u'explosion')
+[u'the', u'Cambrian', u'explosion\u2014a', u'period', u'during']
+[u'the', u'Cambrian', u'explosion']
+
+(u'explosion\u2014a', u'explosion')
+[u'the', u'Cambrian', u'explosion\u2014a', u'period', u'during']
+[u'the', u'Cambrian', u'explosion']
+
+(u'endosymbionts', u'end')
+[u'endosymbionts', u'of', u'the', u'bacteria', u',']
+[u'end']
+
+(u'citizens\u2014including', u'citizens')
+[u'investigations', u'into', u'lives', u'of', u'ordinary']
+[u'investigations', u'into', u'lives', u'of', u'ordinary', u'citizens']
+
+(u'and', u'.')
+[u'including', u'Martin', u'Luther', u'King', u',']
+[u'including', u'Martin', u'Luther', u'King', u',', u'Jr', u'.']
+
+(u'Jr.', u'Jr')
+[u'Leonard', u'W.', u'Hatton', u'Jr.', u'was']
+[u'Leonard', u'W.', u'Hatton', u'Jr']
+
+(u'sense\u2014not', u'sense')
+[u'common', u'sense\u2014not', u'touching', u'a', u'hot']
+[u'common', u'sense']
+
+(u'largest', u'large')
+[u'largest', u'affect', u'over', u'the', u'social']
+[u'large']
+
+(u'uniformity', u'uniform')
+[u'uniformity', u'across', u'different', u'cultures', u'in']
+[u'uniform']
+
+(u'toddler\u2014about', u'toddler')
+[u'toddler\u2014about', u'4', u'inches', u'(', u'10.3']
+[u'toddler']
+
+(u'Nonetheless', u'No')
+[u'Nonetheless', u',', u'new', u'legal', u'privileges']
+[u'No']
+
+(u'Station\u2014is', u'Station')
+[u'Bellingshausen', u'Station\u2014is', u'manned', u'year-round', u'by']
+[u'Bellingshausen', u'Station']
+
+(u'California\u2014in', u'California')
+[u'Apple', u'factory', u'in', u'Fremont', u',']
+[u'Apple', u'factory', u'in', u'Fremont', u',', u'California']
+
+(u'128K\u2014manufactured', u'128K')
+[u'Macintosh', u'128K\u2014manufactured', u'at', u'an', u'Apple']
+[u'Macintosh', u'128K']
+
+(u'Steve', u'.')
+[u'Apple', u'Inc.', u'Steve', u'Jobs', u'introduced']
+[u'Apple', u'Inc', u'.']
+
+(u'graphics\u2014an', u'graphics')
+[u'design', u',', u'preview', u',', u'and']
+[u'design', u',', u'preview', u',', u'and', u'print', u'page', u'layouts', u'complete', u'with', u'text', u'and', u'graphics']
+
+(u'``', u"''")
+[u'``', u'Archibald', u',', u'certainly', u'not']
+[u'``', u'Archibald', u',', u'certainly', u'not', u'!', u"''"]
+
+(u'poetry\u2014the', u'poetry')
+[u'Indian', u'epic', u'poetry\u2014the', u'Ramayana', u'and']
+[u'Indian', u'epic', u'poetry']
+
+(u'ASCII-based', u'ASCII')
+[u'ASCII-based', u'transliteration', u'schemes', u'have', u'also']
+[u'ASCII']
+
+(u'1st-century', u'1st')
+[u'1st-century', u'Middle-Eastern', u'artifact', u'that', u'some']
+[u'1st']
+
+(u'V.', u'V')
+[u'Philip', u'V.', u'Around', u'1870', u',']
+[u'Philip', u'V']
+
+(u'European', u'Europe')
+[u'European', u'soldiers', u'came', u'on', u'their']
+[u'Europe']
+
+(u'western', u'west')
+[u'western', u'side', u'of', u'the', u'building']
+[u'west']
+
+(u'Army\u2014though', u'Army')
+[u'to', u'desert', u'from', u'the', u'Prussian']
+[u'to', u'desert', u'from', u'the', u'Prussian', u'Army']
+
+(u'470-ship', u'470')
+[u'470-ship', u'French', u'Navy', u'put', u'to']
+[u'470']
+
+(u'10/lb', u'10')
+[u'$', u'10/lb', u'in', u'May', u'2003']
+[u'$', u'10']
+
+(u'Orders\u2014such', u'Orders')
+[u'established', u'their', u'own', u'Orders\u2014such', u'as']
+[u'established', u'their', u'own', u'Orders']
+
+(u'Merit\u2014but', u'Merit')
+[u'Order', u'of', u'Australia', u',', u'the']
+[u'Order', u'of', u'Australia', u',', u'the', u'Order', u'of', u'Canada', u',', u'and', u'the', u'New', u'Zealand', u'Order', u'of', u'Merit']
+
+(u'avoiding', u'avoid')
+[u'avoiding', u'more', u'detailed', u'debate', u'.']
+[u'avoid']
+
+(u'opening', u'open')
+[u'opening', u'French', u'society', u'to', u'female']
+[u'open']
+
+(u'1724\u20131804', u'1724')
+[u'1724\u20131804', u')', u'tried', u'to', u'reconcile']
+[u'1724']
+
+(u'downplayed', u'downplay')
+[u'downplayed', u'the', u'importance', u'of', u'Freemasonry']
+[u'downplay']
+
+(u'1632\u20131704', u'1632')
+[u'1632\u20131704', u')', u'.', u'According', u'to']
+[u'1632']
+
+(u'B.C.E.', u'B.C.E')
+[u'4th', u'century', u'B.C.E.', u',', u'when']
+[u'4th', u'century', u'B.C.E']
+
+(u'p.m.', u'p.m')
+[u'9', u'p.m.', u')', u'can', u'be']
+[u'9', u'p.m']
+
+(u'wealth\u2014which', u'wealth')
+[u'private', u'wealth\u2014which', u'were', u'contradicted', u'by']
+[u'private', u'wealth']
+
+(u'V.', u'V')
+[u'King', u'George', u'V.', u'Her', u'father']
+[u'King', u'George', u'V']
+
+(u'...', u'.')
+[u'longitudinal', u'stability', u'of', u'sexual', u'orientation']
+[u'longitudinal', u'stability', u'of', u'sexual', u'orientation', u'over', u'the', u'adult', u'life', u'span', u'.']
+
+(u'subjects', u's')
+[u'the', u'affected', u'subjects', u'.', u'In']
+[u'the', u'affected', u's']
+
+(u"'s", u'.')
+[u'Apple', u'Inc.', u"'s", u'Macintosh', u'that']
+[u'Apple', u'Inc', u'.']
+
+(u'Greenpeace\u2019s', u'Greenpeace')
+[u'Greenpeace\u2019s', u'Guide', u'to', u'Greener', u'Electronics']
+[u'Greenpeace']
+
+(u'U.S.', u'U.S')
+[u'U.S.', u'corporate', u'PC', u'market', u',']
+[u'U.S']
+
+(u'Co.', u'Co')
+[u'KKR', u'&', u'Co.', u'and', u'TPG']
+[u'KKR', u'&', u'Co']
+
+(u'was', u'.')
+[u'Louis', u'Jones', u',', u'Jr.', u'was']
+[u'Louis', u'Jones', u',', u'Jr', u'.']
+
+(u'expressed', u'.')
+[u'William', u'J.', u'Brennan', u',', u'Jr.']
+[u'William', u'J.', u'Brennan', u',', u'Jr', u'.']
+
+(u'5\u20134', u'5')
+[u'5\u20134', u'margin', u',', u'effectively', u'raising']
+[u'5']
+
+(u'1979\u20131987', u'1979')
+[u'1979\u20131987', u')', u'as', u'Florida', u"'s"]
+[u'1979']
+
+(u'three-drug', u'three')
+[u'three-drug', u'cocktails', u'for', u'lethal', u'injections']
+[u'three']
+
+(u'instructions\u2014usually', u'instructions')
+[u'produced', u'their', u'own', u'short', u'instructions\u2014usually']
+[u'produced', u'their', u'own', u'short', u'instructions']
+
+(u'gold-plastic', u'gold')
+[u'gold-plastic', u'carts', u',', u'all', u'licensed']
+[u'gold']
+
+(u'yellow-plastic', u'yellow')
+[u'yellow-plastic', u'carts', u'for', u'internal', u'use']
+[u'yellow']
+
+(u'16-bit', u'16')
+[u'16-bit', u'system', u'which', u'would', u'function']
+[u'16']
+
+(u'12-pin', u'12')
+[u'12-pin', u'``', u'multi-out', u"''", u'connector']
+[u'12']
+
+(u'7-pin', u'7')
+[u'7-pin', u'ports', u'on', u'the', u'front']
+[u'7']
+
+(u'1999\u2014garnered', u'1999')
+[u'1999\u2014garnered', u'visibility', u',', u'but', u'not']
+[u'1999']
+
+(u'century-old', u'century')
+[u'century-old', u'Seattle', u'Symphony', u'Orchestra', u'is']
+[u'century']
+
+(u'9,000-rider', u'9,000')
+[u'9,000-rider', u'Seattle', u'to', u'Portland', u'Bicycle']
+[u'9,000']
+
+(u'based', u'.')
+[u'Eli', u'Lilly', u'and', u'Co.', u'based']
+[u'Eli', u'Lilly', u'and', u'Co', u'.']
+
+(u'arsenic-containing', u'arsenic')
+[u'arsenic-containing', u'dye', u'with', u'similar', u'selective']
+[u'arsenic']
+
+(u'Merck-funded', u'Merck')
+[u'Merck-funded', u'research', u'program', u'in', u'Selman']
+[u'Merck']
+
+(u'Co.', u'Co')
+[u'Karl', u'H.', u'Beyer', u',', u'James']
+[u'Karl', u'H.', u'Beyer', u',', u'James', u'M.', u'Sprague', u',', u'John', u'E.', u'Baer', u',', u'and', u'Frederick', u'C.', u'Novello', u'of', u'Merck', u'and', u'Co']
+
+(u'Co.', u'Co')
+[u'E.D', u'.', u'Searle', u'and', u'Co.']
+[u'E.D', u'.', u'Searle', u'and', u'Co']
+
+(u'661\u201380', u'661')
+[u'661\u201380', u')', u'to', u'have', u'been']
+[u'661']
+
+(u'683\u201384', u'683')
+[u'683\u201384', u')', u'initially', u'succeeded', u'him']
+[u'683']
+
+(u'685\u2013705', u'685')
+[u'685\u2013705', u')', u',', u'who', u'reconsolidated']
+[u'685']
+
+(u'724\u201343', u'724')
+[u'724\u201343', u')', u',', u'whose', u'long']
+[u'724']
+
+(u'Ltd.', u'Ltd')
+[u'Clarmac', u'Roads', u'Ltd.', u'Two', u'products']
+[u'Clarmac', u'Roads', u'Ltd']
+
+(u'tall\u2014but', u'tall')
+[u'no', u'more', u'than', u'five', u'feet']
+[u'no', u'more', u'than', u'five', u'feet', u'tall']
+
+(u'tall\u2014but', u'tall')
+[u'stout', u',', u'dowdy', u'and', u'no']
+[u'stout', u',', u'dowdy', u'and', u'no', u'more', u'than', u'five', u'feet', u'tall']
+
+(u'residences\u2014Windsor', u'residences')
+[u'in', u'her', u'royal', u'residences\u2014Windsor', u'Castle']
+[u'in', u'her', u'royal', u'residences']
+
+(u'German-born', u'German')
+[u'German-born', u'mother', u'Princess', u'Victoria', u'of']
+[u'German']
+
+(u'a.m.', u'a.m')
+[u'4.15', u'a.m.', u'on', u'24', u'May']
+[u'4.15', u'a.m']
+
+(u'18-year-old', u'18')
+[u'18-year-old', u'Edward', u'Oxford', u'attempted', u'to']
+[u'18']
+
+(u'1,200-guest', u'1,200')
+[u'1,200-guest', u'ball', u'at', u'the', u'Palace']
+[u'1,200']
+
+(u'35th-largest', u'35th')
+[u'35th-largest', u'economy', u'in', u'the', u'world']
+[u'35th']
+
+(u'120-member', u'120')
+[u'120-member', u'parliament', u',', u'known', u'as']
+[u'120']
+
+(u'second-largest', u'second')
+[u'second-largest', u'number', u'of', u'startup', u'companies']
+[u'second']
+
+(u'Buddhism', u'Buddh')
+[u'Buddhism', u'.']
+[u'Buddh']
+
+(u'Greco-Egyptian', u'Gre')
+[u'the', u'Greco-Egyptian', u'Serapis', u',', u'eastern']
+[u'the', u'Gre']
+
+(u'19th-century', u'19th')
+[u'19th-century', u'concept', u';', u'the', u'idea']
+[u'19th']
+
+(u'reforms', u'refor')
+[u'reforms', u'in', u'order', u'to', u'increase']
+[u'refor']
+
+(u',', u'.')
+[u'255', u'B.C.', u',', u'Ariarathes', u'III']
+[u'255', u'B.C', u'.']
+
+(u'I.', u'I')
+[u'Menander', u'I.', u'Menander', u'converted', u'to']
+[u'Menander', u'I']
+
+(u'invasions', u'in')
+[u'invasions', u',', u'presumably', u'by', u'those']
+[u'in']
+
+(u'Vend\xe9e\u2014a', u'Vend\xe9e')
+[u'the', u'War', u'in', u'the', u'Vend\xe9e\u2014a']
+[u'the', u'War', u'in', u'the', u'Vend\xe9e']
+
+(u'War\u2014the', u'War')
+[u'the', u'Second', u'Polish', u'War\u2014the', u'First']
+[u'the', u'Second', u'Polish', u'War']
+
+(u'Civil\u2014now', u'Civil')
+[u'the', u'Code', u'Civil\u2014now', u'often', u'known']
+[u'the', u'Code', u'Civil']
+
+(u'Code\u2014was', u'Code')
+[u'the', u'Napoleonic', u'Code\u2014was', u'prepared', u'by']
+[u'the', u'Napoleonic', u'Code']
+
+(u'celebrations\u2014they', u'celebrations')
+[u'royal', u'celebrations\u2014they', u'demonstrated', u'the', u'prevailing']
+[u'royal', u'celebrations']
+
+(u'32-year-old', u'32')
+[u'32-year-old', u'widow', u'whose', u'first', u'husband']
+[u'32']
+
+(u'240-acre', u'240')
+[u'240-acre', u'(', u'97', u'ha', u')']
+[u'240']
+
+(u'LEED-certified', u'LEED')
+[u'LEED-certified', u'.', u'Silverman', u'Hall', u'on']
+[u'LEED']
+
+(u'10-week', u'10')
+[u'approximately', u'10-week', u'academic', u'quarter', u'system']
+[u'approximately', u'10']
+
+(u'14th', u'14')
+[u'14th', u'Community', u'Shield', u'title', u'.']
+[u'14']
+
+(u'Deco-style', u'Deco')
+[u'Art', u'Deco-style', u'badge', u'on', u'which']
+[u'Art', u'Deco']
+
+(u'5th-century', u'5th')
+[u'5th-century', u'Frankish', u'.', u'Although', u'some']
+[u'5th']
+
+(u'Jr.', u'Jr')
+[u'William', u'Wrigley', u'Jr.', u"'s", u'then-majority']
+[u'William', u'Wrigley', u'Jr']
+
+(u'D.C.', u'D.C')
+[u'Washington', u',', u'D.C.', u'formed', u'the']
+[u'Washington', u',', u'D.C']
+
+(u'2012\u2014the', u'2012')
+[u'the', u'corporation', u"'s", u'overall', u'performance']
+[u'the', u'corporation', u"'s", u'overall', u'performance', u'in', u'2013', u'was', u'38', u'per', u'cent', u'lower', u'than', u'2012']
+
+(u'antennas\u2014revealing', u'antennas')
+[u'the', u'use', u'of', u'four', u'radio']
+[u'the', u'use', u'of', u'four', u'radio', u'car', u'antennas']
+
+(u',', u'.')
+[u'U.S.', u',', u'for', u'example', u',']
+[u'U.S', u'.']
+
+(u'(', u'.')
+[u'U.S.', u'(', u'20', u'%', u')']
+[u'U.S', u'.']
+
+(u'300-member', u'300')
+[u'300-member', u'elective', u'unicameral', u'Parliament', u'.']
+[u'300']
+
+(u'Boreoeutheria-', u'Boreoeutheria')
+[u'Afrotheria', u',', u'Xenarthra', u',', u'and']
+[u'Afrotheria', u',', u'Xenarthra', u',', u'and', u'Boreoeutheria']
+
+(u'platypuses', u'platypus')
+[u'platypuses', u'and', u'the', u'echidnas', u',']
+[u'platypus']
+
+(u'businesses', u'business')
+[u'The', u'company', u"'s", u'mainstay', u'businesses']
+[u'The', u'company', u"'s", u'mainstay', u'business']
+
+(u'1839\u201342', u'1839')
+[u'1839\u201342', u')', u'.', u'After', u'the']
+[u'1839']
+
+(u'cross\u2014representing', u'cross')
+[u'St', u'Andrew', u"'s", u'cross\u2014representing', u'the']
+[u'St', u'Andrew', u"'s", u'cross']
+
+(u'themselves\u2014joyous', u'themselves')
+[u'life', u'of', u'the', u'peoples', u'themselves\u2014joyous']
+[u'life', u'of', u'the', u'peoples', u'themselves']
+
+(u'Face', u'F')
+[u'often', u'scripted', u'to', u'dispense', u'with']
+[u'often', u'scripted', u'to', u'dispense', u'with', u'the', u'appearance', u'of', u'neutrality', u'and', u'use', u'their', u'influence', u'to', u'unfairly', u'influence', u'the', u'outcome', u'of', u'the', u'match', u'for', u'added', u'dramatic', u'impact', u'.', u'F']
+
+(u'Sch.', u'Sch')
+[u'from', u'1\xb0', u'Sch', u'.', u'to']
+[u'from', u'1\xb0', u'Sch', u'.', u'to', u'20\xb0', u'Sch']
+
+(u',', u'.')
+[u'William', u'Nelson', u'Goodwin', u',', u'Jr.']
+[u'William', u'Nelson', u'Goodwin', u',', u'Jr', u'.']
+
+(u'setting\u2014is', u'setting')
+[u'ISO', u'setting\u2014is', u'specified', u'by', u'the']
+[u'ISO', u'setting']
+
+(u'JPEG\u2014and', u'JPEG')
+[u'sRGB', u'images\u2014typically', u'JPEG\u2014and', u'not', u'to']
+[u'sRGB', u'images\u2014typically', u'JPEG']
+
+(u'WHO-defined', u'WHO')
+[u'WHO-defined', u'safe', u'limits', u'.']
+[u'WHO']
+
+(u'32nd', u'32')
+[u'32nd', u'state', u'of', u'the', u'federation']
+[u'32']
+
+(u'1980s\u2014or', u'1980s')
+[u'1980s\u2014or', u'through', u'laws', u'recently', u'approved']
+[u'1980s']
+
+(u'10,000-seat', u'10,000')
+[u'10,000-seat', u'National', u'Auditorium', u'that', u'regularly']
+[u'10,000']
+
+(u'English-language', u'English')
+[u'Spanish', u'and', u'English-language', u'pop', u'and']
+[u'Spanish', u'and', u'English']
+
+(u'3,000-seat', u'3,000')
+[u'3,000-seat', u'Teatro', u'Metropolitan', u',', u'the']
+[u'3,000']
+
+(u'50,000-seat', u'50,000')
+[u'50,000-seat', u'Foro', u'Sol', u'Stadium', u',']
+[u'50,000']
+
+(u'3,000-seat', u'3,000')
+[u'3,000-seat', u'Pepsi', u'Center', u'World', u'Trade']
+[u'3,000']
+
+(u'resulted', u'r')
+[u'Battle', u'of', u'the', u'Teutoburg', u'Forest']
+[u'Battle', u'of', u'the', u'Teutoburg', u'Forest', u'r']
+
+(u'Prussians', u'Prussia')
+[u'Prussians', u'successfully', u'defeated', u'the', u'Austrians']
+[u'Prussia']
+
+(u'3,500-person', u'3,500')
+[u'3,500-person', u'town', u'.', u'A', u'militia']
+[u'3,500']
+
+(u',', u'.')
+[u'William', u'F.', u'Buckley', u',', u'Jr.']
+[u'William', u'F.', u'Buckley', u',', u'Jr', u'.']
+
+(u',', u'.')
+[u'William', u'F.', u'Buckley', u',', u'Jr.']
+[u'William', u'F.', u'Buckley', u',', u'Jr', u'.']
+
+(u'Inc.', u'Inc')
+[u'Regional', u'Data', u'Cooperative', u'for', u'Greater']
+[u'Regional', u'Data', u'Cooperative', u'for', u'Greater', u'New', u'Haven', u',', u'Inc']
+
+(u'Inc.', u'Inc')
+[u'Regional', u'Data', u'Cooperative', u'for', u'Greater']
+[u'Regional', u'Data', u'Cooperative', u'for', u'Greater', u'New', u'Haven', u',', u'Inc']
+
+(u'1928\u2013present', u'1928')
+[u'1928\u2013present', u')', u'.']
+[u'1928']
+
+(u',', u'.')
+[u'John', u'DeStefano', u',', u'Jr.', u',']
+[u'John', u'DeStefano', u',', u'Jr', u'.']
+
+(u'Jr.', u'Jr')
+[u'John', u'DeStefano', u',', u'Jr.', u',']
+[u'John', u'DeStefano', u',', u'Jr']
+
+(u'Center/', u'Center')
+[u'Connecticut', u'Mental', u'Health', u'Center/', u'across']
+[u'Connecticut', u'Mental', u'Health', u'Center']
+
+(u'Florida\u2014and', u'Florida')
+[u'if', u'the', u'state\u2019s', u'827,000', u'disenfranchised']
+[u'if', u'the', u'state\u2019s', u'827,000', u'disenfranchised', u'felons', u'had', u'voted', u'at', u'the', u'same', u'rate', u'as', u'other', u'Floridians', u',', u'Democratic', u'candidate', u'Al', u'Gore', u'would', u'have', u'won', u'Florida']
+
+(u'D.C..', u'D.C')
+[u'Auto', u'Train', u',', u'which', u'originates']
+[u'Auto', u'Train', u',', u'which', u'originates', u'at', u'Lorton', u',', u'Virginia', u',', u'south', u'of', u'Washington', u',', u'D.C']
+
+(u'Mercury-written', u'Mercury')
+[u'Freddie', u'Mercury-written', u'lead', u'single', u'``']
+[u'Freddie', u'Mercury']
+
+(u'Rhodes-created', u'Rhodes')
+[u'Zandra', u'Rhodes-created', u'costumes', u'and', u'accompanied']
+[u'Zandra', u'Rhodes']
+
+(u'72,000-strong', u'72,000')
+[u'72,000-strong', u'crowd', u'.', u'Performers', u',']
+[u'72,000']
+
+(u'\u2013', u')')
+[u'the', u'Presbyterian', u'Church', u'(', u'U.S.A.']
+[u'the', u'Presbyterian', u'Church', u'(', u'U.S.A', u'.', u')']
+
+(u'Guomindang-imposed', u'Guomindang')
+[u'era', u'of', u'Guomindang-imposed', u'martial', u'law']
+[u'era', u'of', u'Guomindang']
+
+(u'evolutionary', u'evolution')
+[u'evolutionary', u'arms', u'race', u'and', u'tends']
+[u'evolution']
+
+(u'finally', u'final')
+[u'finally', u'consumption', u'.', u'The', u'relationship']
+[u'final']
+
+(u'English-speaking', u'English')
+[u'English-speaking', u')', u'and', u'Lower', u'Canada']
+[u'English']
+
+(u'French-speaking', u'French')
+[u'French-speaking', u')', u'to', u'defuse', u'tensions']
+[u'French']
+
+(u'Chinese-majority', u'Chinese')
+[u'Chinese-majority', u'Singapore', u'was', u'expelled', u'from']
+[u'Chinese']
+
+(u'1984\u2014under', u'1984')
+[u'1984\u2014under', u'the', u'terms', u'of', u'the']
+[u'1984']
+
+(u',', u'.')
+[u'W.E.', u',', u'a', u'biographic', u'about']
+[u'W.E', u'.']
+
+(u'foxes', u'fox')
+[u'foxes', u',', u'so', u'that', u'there']
+[u'fox']
+
+(u'rice-farming', u'rice')
+[u'rice-farming', u'delta', u'of', u'the', u'Irrawaddy']
+[u'rice']
+
+(u'and', u'a')
+[u'Pro-Christian', u'Kachin', u'Independence', u'Army', u'and']
+[u'Pro-Christian', u'Kachin', u'Independence', u'Army', u'a']
+
+(u'freedoms', u'freedom')
+[u'Myanmar', u'improved', u'yet', u'again', u',']
+[u'Myanmar', u'improved', u'yet', u'again', u',', u'receiving', u'a', u'score', u'of', u'five', u'in', u'civil', u'liberties', u'and', u'a', u'six', u'in', u'political', u'freedom']
+
+(u'schools', u'schoo')
+[u'privately', u'funded', u'English', u'language', u'schools']
+[u'privately', u'funded', u'English', u'language', u'schoo']
+
+(u'Holocaust\u2014the', u'Holocaust')
+[u'The', u'Holocaust\u2014the', u'state-led', u'systematic', u'persecution']
+[u'The', u'Holocaust']
+
+(u'and', u'.')
+[u'U.S.', u'and', u'one', u'of', u'the']
+[u'U.S', u'.']
+
+(u'masking\u2014where', u'masking')
+[u'temporal', u'masking\u2014where', u'a', u'signal', u'is']
+[u'temporal', u'masking']
+
+(u'74th', u'74')
+[u'74th', u'birthday', u'when', u'he', u'started']
+[u'74']
+
+(u'month-long', u'month')
+[u'a', u'month-long', u'affair', u'consisting', u'of']
+[u'a', u'month']
+
+(u'six-day', u'six')
+[u'six-day', u'non-stop', u'festival', u',', u'beginning']
+[u'six']
+
+(u'candombe-summoning', u'candombe')
+[u'candombe-summoning', u'parade', u')', u'.']
+[u'candombe']
+
+(u'LL.D.', u'LL.D')
+[u'an', u'honorary', u'degree', u'LL.D.', u',']
+[u'an', u'honorary', u'degree', u'LL.D']
+
+(u'Yale', u'.')
+[u'the', u'worst', u'record', u'of', u'labor']
+[u'the', u'worst', u'record', u'of', u'labor', u'tension', u'of', u'any', u'university', u'in', u'the', u'U.S', u'.']
+
