@@ -4,12 +4,14 @@ import re
 import math
 from collections import Counter
 import numpy as np
+import sys
 
 MAX_SENTENCES = 20
 word_idf_counter = Counter()
 bigram_idf_counter = Counter()
 parser = English()
 total_passages = 0
+_DEV = False
 
 def find_token(answer_start, token_dict, answer_text):
     closest_below = max([key for key in token_dict.keys() if key < answer_start])
@@ -304,6 +306,7 @@ def generate_features(data):
                     sent_quest_sim_features(c_parsed, q_parsed, features)
                     sent_tf_idf_features(c_parsed, unique_question_words,
                                          unique_question_bigrams, features)
+                    quest_wh_word_features(unique_question_words, features)
 
                     for sent_num, sent in enumerate(c_parsed.sents):
                         if sent_num >= MAX_SENTENCES:
@@ -324,9 +327,14 @@ def generate_features(data):
     return result
 
 def main():
+    global _DEV
     result = []
 
     fn = "../train-v1.1.json"
+    if len(sys.argv) > 1 and sys.argv[1] == "dev":
+        _DEV = True
+        fn = "../dev-v1.1.json"
+
     with open(fn) as fp:
         data = json.load(fp)
 
@@ -335,10 +343,14 @@ def main():
     get_idfs(data)
     features = generate_features(data)
 
-    with open("features.txt", 'w') as train_fp:
+    out_fn = "train_features.txt"
+    if _DEV:
+        out_fn = "dev_features.txt"
+    with open(out_fn, 'w') as fp:
         for line in features:
-            train_fp.write(line + '\n')
+            fp.write(line + '\n')
 
 
 if __name__ == "__main__":
     main()
+

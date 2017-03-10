@@ -6,7 +6,7 @@ import sklearn
 
 TEST_SPLIT = .2
 
-X, Y = load_svmlight_file("features.txt")
+X, Y = load_svmlight_file("ablated_features.txt")
 
 num_instances = len(Y)
 num_test = int((1 - TEST_SPLIT) * num_instances)
