@@ -42,8 +42,18 @@ class MyLayer(Layer):
 
     def call(self, x, mask=None):
         # return K.batch_dot(self.W, K.transpose(x))
+        # print("\n\nHERE\n\n")
+        # print(K.shape(x)[0])
+        # print("\n\nHERE\n\n")
+        # print(x.get_shape())
+        # if K.int_shape(x)[0] < BATCH_SIZE:
+            # pad_length = BATCH_SIZE - K.int_shape(x)[0]
+            # x = K.permute_dimensions(x, (1, 0, 2))
+            # x = K.asymmetric_temporal_padding(x, left_pad=0, right_pad=pad_length)
+            # x = K.permute_dimensions(x, (1, 0, 2))
         x = K.permute_dimensions(x, (0, 2, 1))
         x = K.batch_dot(self.W, x)
+        # x = K.dot(self.W, x)
         x = K.permute_dimensions(x, (0, 2, 1))
         return x
 
@@ -91,9 +101,11 @@ train_instances = np.asarray(train_instances)
 nb_validation_samples = int(VALIDATION_SPLIT * train_instances.shape[0])
 validation_rows = np.random.choice(len(train_instances), nb_validation_samples)
 validation_data = train_instances[validation_rows]
+validation_data = validation_data[:len(validation_data)-(len(validation_data)%BATCH_SIZE)]
 validation_rows = set(validation_rows)
 train_rows = [x for x in range(len(train_instances)) if x not in validation_rows]
 train_data = train_instances[train_rows]
+train_data = train_data[:len(train_data)-(len(train_data)%BATCH_SIZE)]
 
 train_passages = [[word.lower() for word in passage] for passage in train_data[:, 0]]
 train_questions = [[word.lower() for word in passage] for passage in train_data[:, 1]]
