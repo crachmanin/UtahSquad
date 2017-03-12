@@ -17,8 +17,10 @@ else:
     clf = joblib.load('model.pkl')
 
 preds = clf.predict(X_test)
+
+print sklearn.metrics.accuracy_score(Y_test, preds)
+
 with open("predictions.txt", "w") as fp:
     for pred in preds:
         fp.write("%d\n" % pred)
 
-print sklearn.metrics.accuracy_score(Y_test, preds)

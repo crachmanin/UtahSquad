@@ -1,0 +1,1978 @@
+Prediction: communism, Ground Truth: communism
+
+Prediction: 26, Ground Truth: 80
+Prediction: incentives, Ground Truth: minimal
+
+Prediction: 62, Ground Truth: 51
+Prediction: agricultural, Ground Truth: sports
+
+Prediction: 97, Ground Truth: 97
+Prediction: rome, Ground Truth: rome
+
+Prediction: 68, Ground Truth: 32
+Prediction: gaul, Ground Truth: theoderic
+
+Prediction: 113, Ground Truth: 113
+Prediction: 2006, Ground Truth: 2006
+
+Prediction: 35, Ground Truth: 18
+Prediction: condense, Ground Truth: upper-level
+
+Prediction: 100, Ground Truth: 94
+Prediction: collateralized, Ground Truth: derivatives
+
+Prediction: 43, Ground Truth: 111
+Prediction: mao, Ground Truth: peng
+
+Prediction: 7, Ground Truth: 7
+Prediction: 12th, Ground Truth: 12th
+
+Prediction: 48, Ground Truth: 15
+Prediction: story-telling, Ground Truth: narration
+
+Prediction: 73, Ground Truth: 78
+Prediction: 1783, Ground Truth: defeated
+
+Prediction: 119, Ground Truth: 119
+Prediction: appeal, Ground Truth: appeal
+
+Prediction: 0, Ground Truth: 0
+Prediction: electrocution, Ground Truth: electrocution
+
+Prediction: 53, Ground Truth: 53
+Prediction: 1895, Ground Truth: 1895
+
+Prediction: 394, Ground Truth: 216
+Prediction: a, Ground Truth:
+
+Prediction: 63, Ground Truth: 120
+Prediction: compressor, Ground Truth: video
+
+Prediction: 10, Ground Truth: 10
+Prediction: 2010, Ground Truth: 2010
+
+Prediction: 159, Ground Truth: 29
+Prediction: hegelian, Ground Truth: unreal
+
+Prediction: 29, Ground Truth: 77
+Prediction: 1875, Ground Truth: 1983
+
+Prediction: 14, Ground Truth: 14
+Prediction: 1834, Ground Truth: 1834
+
+Prediction: 119, Ground Truth: 134
+Prediction: ja'far, Ground Truth: egyptians
+
+Prediction: 13, Ground Truth: 13
+Prediction: 1993, Ground Truth: 1993
+
+Prediction: 9, Ground Truth: 9
+Prediction: five, Ground Truth: five
+
+Prediction: 173, Ground Truth: 180
+Prediction: ., Ground Truth: dopamine
+
+Prediction: 24, Ground Truth: 48
+Prediction: prospective, Ground Truth: content
+
+Prediction: 192, Ground Truth: 33
+Prediction: , Ground Truth: economics
+
+Prediction: 0, Ground Truth: 13
+Prediction: affirmative, Ground Truth: education
+
+Prediction: 19, Ground Truth: 19
+Prediction: zhenjiang, Ground Truth: zhenjiang
+
+Prediction: 16, Ground Truth: 16
+Prediction: 1667, Ground Truth: 1667
+
+Prediction: 0, Ground Truth: 10
+Prediction: hellenistic, Ground Truth: hellenistic
+
+Prediction: 5, Ground Truth: 7
+Prediction: parliament, Ground Truth: public
+
+Prediction: 4, Ground Truth: 4
+Prediction: yama, Ground Truth: yama
+
+Prediction: 58, Ground Truth: 51
+Prediction: norse, Ground Truth: northern
+
+Prediction: 38, Ground Truth: 34
+Prediction: thracian, Ground Truth: indo-european
+
+Prediction: 17, Ground Truth: 141
+Prediction: rot-un-wiss, Ground Truth: paris
+
+Prediction: 108, Ground Truth: 56
+Prediction: 1850, Ground Truth: 200
+
+Prediction: 83, Ground Truth: 72
+Prediction: slowed, Ground Truth: 1960s
+
+Prediction: 0, Ground Truth: 100
+Prediction: cotton, Ground Truth: children
+
+Prediction: 0, Ground Truth: 0
+Prediction: imamah, Ground Truth: imamah
+
+Prediction: 19, Ground Truth: 56
+Prediction: africa, Ground Truth: swiss
+
+Prediction: 66, Ground Truth: 59
+Prediction: greek, Ground Truth: cyrillic
+
+Prediction: 7, Ground Truth: 28
+Prediction: han, Ground Truth: jurchen
+
+Prediction: 138, Ground Truth: 39
+Prediction: 2000, Ground Truth: 1930
+
+Prediction: 101, Ground Truth: 85
+Prediction: four, Ground Truth: 12
+
+Prediction: 138, Ground Truth: 107
+Prediction: agriculture, Ground Truth: parents
+
+Prediction: 2, Ground Truth: 24
+Prediction: chengdu, Ground Truth: beijing
+
+Prediction: 86, Ground Truth: 86
+Prediction: sīla, Ground Truth: sīla
+
+Prediction: 93, Ground Truth: 93
+Prediction: 1963, Ground Truth: 1963
+
+Prediction: 214, Ground Truth: 212
+Prediction: 1849, Ground Truth: ireland
+
+Prediction: 47, Ground Truth: 163
+Prediction: ceratophyllum, Ground Truth: cretaceous
+
+Prediction: 94, Ground Truth: 96
+Prediction: 860, Ground Truth: 907
+
+Prediction: 60, Ground Truth: 82
+Prediction: yemen, Ground Truth: afghanistan
+
+Prediction: 68, Ground Truth: 2
+Prediction: non-christians, Ground Truth: julian
+
+Prediction: 12, Ground Truth: 24
+Prediction: france, Ground Truth: germany
+
+Prediction: 91, Ground Truth: 91
+Prediction: 1804, Ground Truth: 1804
+
+Prediction: 38, Ground Truth: 38
+Prediction: 15,000, Ground Truth: 15,000
+
+Prediction: 2, Ground Truth: 2
+Prediction: 1987, Ground Truth: 1987
+
+Prediction: 2, Ground Truth: 27
+Prediction: religious, Ground Truth: religious
+
+Prediction: 120, Ground Truth: 91
+Prediction: liquidity, Ground Truth:
+
+Prediction: 68, Ground Truth: 13
+Prediction: cathars, Ground Truth: poverty
+
+Prediction: 58, Ground Truth: 19
+Prediction: kleypas, Ground Truth: massachusetts
+
+Prediction: 58, Ground Truth: 89
+Prediction: 1177, Ground Truth: 1189
+
+Prediction: 7, Ground Truth: 16
+Prediction: indicate, Ground Truth: logograms
+
+Prediction: 14, Ground Truth: 14
+Prediction: 2050, Ground Truth: 2050
+
+Prediction: 20, Ground Truth: 20
+Prediction: allmusic, Ground Truth: allmusic
+
+Prediction: 7, Ground Truth: 4
+Prediction: 2009, Ground Truth: january
+
+Prediction: 85, Ground Truth: 88
+Prediction: january, Ground Truth:
+
+Prediction: 80, Ground Truth: 6
+Prediction: britain, Ground Truth: england
+
+Prediction: 69, Ground Truth: 94
+Prediction: brahmanic, Ground Truth: shramanas
+
+Prediction: 20, Ground Truth: 12
+Prediction: vacations, Ground Truth: 18-hour
+
+Prediction: 3, Ground Truth: 45
+Prediction: pepsico, Ground Truth: third
+
+Prediction: 95, Ground Truth: 95
+Prediction: four, Ground Truth: four
+
+Prediction: 115, Ground Truth: 20
+Prediction: career, Ground Truth: cinematography
+
+Prediction: 102, Ground Truth: 102
+Prediction: florence, Ground Truth: florence
+
+Prediction: 109, Ground Truth: 195
+Prediction: horse-hair, Ground Truth: footnote
+
+Prediction: 32, Ground Truth: 32
+Prediction: 278, Ground Truth: 278
+
+Prediction: 24, Ground Truth: 83
+Prediction: september, Ground Truth: 2011
+
+Prediction: 68, Ground Truth: 3
+Prediction: qushayri, Ground Truth: 7:143
+
+Prediction: 139, Ground Truth: 133
+Prediction: liberation, Ground Truth: president
+
+Prediction: 31, Ground Truth: 31
+Prediction: 1895, Ground Truth: 1895
+
+Prediction: 21, Ground Truth: 31
+Prediction: french, Ground Truth: 3rd
+
+Prediction: 80, Ground Truth: 75
+Prediction: 44th, Ground Truth: 4th
+
+Prediction: 68, Ground Truth: 76
+Prediction: 1764, Ground Truth: 1733
+
+Prediction: 25, Ground Truth: 22
+Prediction: google, Ground Truth: wikipedia.org
+
+Prediction: 106, Ground Truth: 106
+Prediction: 2010, Ground Truth: 2010
+
+Prediction: 55, Ground Truth: 55
+Prediction: catholic, Ground Truth: catholic
+
+Prediction: 109, Ground Truth: 117
+Prediction: a, Ground Truth: 1991
+
+Prediction: 216, Ground Truth: 177
+Prediction: 1456, Ground Truth: 1391
+
+Prediction: 119, Ground Truth: 119
+Prediction: 40, Ground Truth: 40
+
+Prediction: 184, Ground Truth: 84
+Prediction: four, Ground Truth: 15
+
+Prediction: 10, Ground Truth: 10
+Prediction: 1722, Ground Truth: 1722
+
+Prediction: 87, Ground Truth: 50
+Prediction: snooker, Ground Truth: cribbage
+
+Prediction: 79, Ground Truth: 79
+Prediction: 1966, Ground Truth: 1966
+
+Prediction: 28, Ground Truth: 93
+Prediction: longbowmen, Ground Truth: pikes
+
+Prediction: 47, Ground Truth: 54
+Prediction: 14th, Ground Truth: murcia
+
+Prediction: 27, Ground Truth: 27
+Prediction: south, Ground Truth: south
+
+Prediction: 36, Ground Truth: 19
+Prediction: unilateral, Ground Truth: consent
+
+Prediction: 17, Ground Truth: 60
+Prediction: mary, Ground Truth: luke
+
+Prediction: 18, Ground Truth: 0
+Prediction: somatic, Ground Truth: nociceptive
+
+Prediction: 66, Ground Truth: 30
+Prediction: crustaceans, Ground Truth: multiple
+
+Prediction: 25, Ground Truth: 56
+Prediction: 1954, Ground Truth: 1955
+
+Prediction: 21, Ground Truth: 29
+Prediction: lice, Ground Truth: clothing
+
+Prediction: 48, Ground Truth: 78
+Prediction: gradually, Ground Truth: fell
+
+Prediction: 34, Ground Truth: 28
+Prediction: hegemonic, Ground Truth: aesthetics
+
+Prediction: 15, Ground Truth: 101
+Prediction: seven, Ground Truth: 80,000
+
+Prediction: 70, Ground Truth: 68
+Prediction: polyphenols, Ground Truth: vasodilation
+
+Prediction: 145, Ground Truth: 73
+Prediction: 2014, Ground Truth: 2000
+
+Prediction: 24, Ground Truth: 28
+Prediction: hypochondriasis, Ground Truth: neurotic
+
+Prediction: 17, Ground Truth: 9
+Prediction: alcohol, Ground Truth: sharia
+
+Prediction: 91, Ground Truth: 91
+Prediction: seventy, Ground Truth: seventy
+
+Prediction: 25, Ground Truth: 25
+Prediction: 1987, Ground Truth: 1987
+
+Prediction: 24, Ground Truth: 24
+Prediction: 2014, Ground Truth: 2014
+
+Prediction: 93, Ground Truth: 93
+Prediction: 1992, Ground Truth: 1992
+
+Prediction: 94, Ground Truth: 4
+Prediction: streetcar, Ground Truth: streetcars
+
+Prediction: 19, Ground Truth: 19
+Prediction: beyontourage, Ground Truth: beyontourage
+
+Prediction: 4, Ground Truth: 83
+Prediction: germania, Ground Truth: afterwards
+
+Prediction: 158, Ground Truth: 41
+Prediction: 1990s, Ground Truth: 1964
+
+Prediction: 23, Ground Truth: 11
+Prediction: johnstone, Ground Truth: scotland
+
+Prediction: 5, Ground Truth: 65
+Prediction: oklahoma, Ground Truth:
+
+Prediction: 132, Ground Truth: 132
+Prediction: 43, Ground Truth: 43
+
+Prediction: 53, Ground Truth: 88
+Prediction: the, Ground Truth:
+
+Prediction: 4, Ground Truth: 63
+Prediction: 2004, Ground Truth: april
+
+Prediction: 19, Ground Truth: 13
+Prediction: sharia, Ground Truth: qur'an
+
+Prediction: 59, Ground Truth: 59
+Prediction: 2001, Ground Truth: 2001
+
+Prediction: 0, Ground Truth: 56
+Prediction: plumage, Ground Truth: annual
+
+Prediction: 63, Ground Truth: 42
+Prediction: low-cost, Ground Truth: lc
+
+Prediction: 166, Ground Truth: 121
+Prediction: paris, Ground Truth: miscarriage
+
+Prediction: 135, Ground Truth: 21
+Prediction: 8000, Ground Truth: 75,000
+
+Prediction: 7, Ground Truth: 7
+Prediction: three, Ground Truth: three
+
+Prediction: 79, Ground Truth: 25
+Prediction: samoa, Ground Truth: virginia
+
+Prediction: 12, Ground Truth: 12
+Prediction: 1682, Ground Truth: 1682
+
+Prediction: 26, Ground Truth: 26
+Prediction: 71, Ground Truth: 71
+
+Prediction: 29, Ground Truth: 27
+Prediction: catalan, Ground Truth: different
+
+Prediction: 26, Ground Truth: 112
+Prediction: 1703, Ground Truth: 1837
+
+Prediction: 4, Ground Truth: 4
+Prediction: 1800, Ground Truth: 1800
+
+Prediction: 71, Ground Truth: 88
+Prediction: traditional, Ground Truth: aganu
+
+Prediction: 0, Ground Truth: 0
+Prediction: nanjing, Ground Truth: nanjing
+
+Prediction: 18, Ground Truth: 60
+Prediction: constitution, Ground Truth: separation
+
+Prediction: 0, Ground Truth: 17
+Prediction: southern, Ground Truth: 8th
+
+Prediction: 46, Ground Truth: 46
+Prediction: 1907, Ground Truth: 1907
+
+Prediction: 99, Ground Truth: 81
+Prediction: france, Ground Truth: denmark
+
+Prediction: 33, Ground Truth: 33
+Prediction: third, Ground Truth: third
+
+Prediction: 30, Ground Truth: 32
+Prediction: government, Ground Truth: discipline
+
+Prediction: 5, Ground Truth: 21
+Prediction: zen, Ground Truth: zen
+
+Prediction: 205, Ground Truth: 76
+Prediction: pronunciation, Ground Truth: 168
+
+Prediction: 72, Ground Truth: 80
+Prediction: ring-porous, Ground Truth: hickory
+
+Prediction: 104, Ground Truth: 110
+Prediction: euramerica, Ground Truth: panthalassa
+
+Prediction: 1, Ground Truth: 9
+Prediction: defense, Ground Truth: deceive
+
+Prediction: 30, Ground Truth: 30
+Prediction: people, Ground Truth: people
+
+Prediction: 25, Ground Truth: 17
+Prediction: seacrest, Ground Truth: fox
+
+Prediction: 64, Ground Truth: 49
+Prediction: homes, Ground Truth: rich
+
+Prediction: 39, Ground Truth: 49
+Prediction: 571, Ground Truth: 140,000
+
+Prediction: 115, Ground Truth: 115
+Prediction: liverpool, Ground Truth: liverpool
+
+Prediction: 30, Ground Truth: 39
+Prediction: 2005, Ground Truth: 2006
+
+Prediction: 20, Ground Truth: 16
+Prediction: balto-slavic, Ground Truth: proto-indo-european
+
+Prediction: 7, Ground Truth: 157
+Prediction: thrived, Ground Truth: himalayas
+
+Prediction: 218, Ground Truth: 212
+Prediction: 1941, Ground Truth: 1927
+
+Prediction: 49, Ground Truth: 15
+Prediction: 1840, Ground Truth: 1839
+
+Prediction: 54, Ground Truth: 54
+Prediction: 1979, Ground Truth: 1979
+
+Prediction: 101, Ground Truth: 235
+Prediction: 180, Ground Truth: eight
+
+Prediction: 62, Ground Truth: 59
+Prediction: 280, Ground Truth: 350
+
+Prediction: 49, Ground Truth: 62
+Prediction: lisbon, Ground Truth: brazil
+
+Prediction: 16, Ground Truth: 16
+Prediction: majuro, Ground Truth: majuro
+
+Prediction: 17, Ground Truth: 17
+Prediction: philadelphia, Ground Truth: philadelphia
+
+Prediction: 31, Ground Truth: 63
+Prediction: 1966, Ground Truth: wembley
+
+Prediction: 30, Ground Truth: 17
+Prediction: kanu, Ground Truth: kujh-lp
+
+Prediction: 24, Ground Truth: 93
+Prediction: 1927, Ground Truth: 1931
+
+Prediction: 7, Ground Truth: 11
+Prediction: warm, Ground Truth: cool
+
+Prediction: 73, Ground Truth: 3
+Prediction: social, Ground Truth: 1950
+
+Prediction: 1, Ground Truth: 94
+Prediction: 2009, Ground Truth: 2010
+
+Prediction: 72, Ground Truth: 58
+Prediction: heidegger, Ground Truth: engels
+
+Prediction: 127, Ground Truth: 125
+Prediction: popper, Ground Truth: impossible
+
+Prediction: 32, Ground Truth: 111
+Prediction: 2015, Ground Truth: 2014
+
+Prediction: 95, Ground Truth: 91
+Prediction: mcms, Ground Truth: non-traditional
+
+Prediction: 67, Ground Truth: 66
+Prediction: 1871, Ground Truth: april
+
+Prediction: 69, Ground Truth: 27
+Prediction: peasant, Ground Truth: akkadian
+
+Prediction: 55, Ground Truth: 55
+Prediction: 1763, Ground Truth: 1763
+
+Prediction: 11, Ground Truth: 11
+Prediction: catalan, Ground Truth: catalan
+
+Prediction: 10, Ground Truth: 10
+Prediction: 290,000, Ground Truth: 290,000
+
+Prediction: 5, Ground Truth: 5
+Prediction: energy, Ground Truth: energy
+
+Prediction: 9, Ground Truth: 25
+Prediction: added, Ground Truth: sustainability
+
+Prediction: 24, Ground Truth: 26
+Prediction: virtue, Ground Truth: aristotle
+
+Prediction: 43, Ground Truth: 113
+Prediction: beating, Ground Truth: police
+
+Prediction: 66, Ground Truth: 22
+Prediction: tito, Ground Truth: tito
+
+Prediction: 0, Ground Truth: 6
+Prediction: sebastian, Ground Truth: latin
+
+Prediction: 101, Ground Truth: 101
+Prediction: 1320, Ground Truth: 1320
+
+Prediction: 24, Ground Truth: 19
+Prediction: emi, Ground Truth: music
+
+Prediction: 62, Ground Truth: 62
+Prediction: typhon, Ground Truth: typhon
+
+Prediction: 222, Ground Truth: 244
+Prediction: 2011, Ground Truth: 2013
+
+Prediction: 61, Ground Truth: 77
+Prediction: western, Ground Truth: egypt
+
+Prediction: 59, Ground Truth: 59
+Prediction: 1717, Ground Truth: 1717
+
+Prediction: 11, Ground Truth: 4
+Prediction: predator, Ground Truth: predation
+
+Prediction: 75, Ground Truth: 38
+Prediction: england, Ground Truth: 1991
+
+Prediction: 42, Ground Truth: 42
+Prediction: archimedes, Ground Truth: archimedes
+
+Prediction: 35, Ground Truth: 53
+Prediction: 1999, Ground Truth: 1976
+
+Prediction: 19, Ground Truth: 19
+Prediction: brazil, Ground Truth: brazil
+
+Prediction: 91, Ground Truth: 271
+Prediction: reverse, Ground Truth: temporal
+
+Prediction: 95, Ground Truth: 1
+Prediction: 1848, Ground Truth: 1903
+
+Prediction: 13, Ground Truth: 4
+Prediction: british, Ground Truth: japan
+
+Prediction: 84, Ground Truth: 84
+Prediction: eastleigh, Ground Truth: eastleigh
+
+Prediction: 46, Ground Truth: 80
+Prediction: abandonware, Ground Truth: homebrew
+
+Prediction: 61, Ground Truth: 48
+Prediction: consoles, Ground Truth: commonplace
+
+Prediction: 109, Ground Truth: 38
+Prediction: contempt, Ground Truth: trust
+
+Prediction: 23, Ground Truth: 52
+Prediction: width, Ground Truth: signal
+
+Prediction: 92, Ground Truth: 92
+Prediction: 47, Ground Truth: 47
+
+Prediction: 20, Ground Truth: 20
+Prediction: allmusic, Ground Truth: allmusic
+
+Prediction: 20, Ground Truth: 48
+Prediction: yards, Ground Truth: five
+
+Prediction: 89, Ground Truth: 20
+Prediction: individuals, Ground Truth: administrators
+
+Prediction: 162, Ground Truth: 169
+Prediction: there, Ground Truth:
+
+Prediction: 78, Ground Truth: 90
+Prediction: 450,000, Ground Truth: 195,000
+
+Prediction: 131, Ground Truth: 29
+Prediction: four, Ground Truth: three
+
+Prediction: 119, Ground Truth: 109
+Prediction: rimsky-korsakov, Ground Truth: wagner
+
+Prediction: 91, Ground Truth: 70
+Prediction: reversible, Ground Truth: dissipation
+
+Prediction: 37, Ground Truth: 37
+Prediction: five, Ground Truth: five
+
+Prediction: 40, Ground Truth: 54
+Prediction: 1720, Ground Truth: 1735–1796
+
+Prediction: 79, Ground Truth: 173
+Prediction: unpleasantness, Ground Truth: action
+
+Prediction: 73, Ground Truth: 86
+Prediction: 1855, Ground Truth: 1873
+
+Prediction: 17, Ground Truth: 10
+Prediction: 1861, Ground Truth: councillors
+
+Prediction: 11, Ground Truth: 18
+Prediction: 1810, Ground Truth: 1822
+
+Prediction: 237, Ground Truth: 19
+Prediction: , Ground Truth: zero-emissions
+
+Prediction: 126, Ground Truth: 126
+Prediction: , Ground Truth:
+
+Prediction: 7, Ground Truth: 7
+Prediction: 1975, Ground Truth: 1975
+
+Prediction: 29, Ground Truth: 147
+Prediction: conservatism, Ground Truth: libertarian
+
+Prediction: 107, Ground Truth: 26
+Prediction: half, Ground Truth: captain
+
+Prediction: 84, Ground Truth: 17
+Prediction: backplane, Ground Truth: pwb
+
+Prediction: 4, Ground Truth: 25
+Prediction: photovoltaics, Ground Truth: passive
+
+Prediction: 27, Ground Truth: 19
+Prediction: coughing, Ground Truth: sputum
+
+Prediction: 95, Ground Truth: 129
+Prediction: 1887, Ground Truth: 1889
+
+Prediction: 31, Ground Truth: 31
+Prediction: positrons, Ground Truth: positrons
+
+Prediction: 143, Ground Truth: 143
+Prediction: 2011, Ground Truth: 2011
+
+Prediction: 46, Ground Truth: 7
+Prediction: baca, Ground Truth: durango
+
+Prediction: 3, Ground Truth: 0
+Prediction: kolkata, Ground Truth: calcutta
+
+Prediction: 8, Ground Truth: 10
+Prediction: 1609, Ground Truth: amsterdam
+
+Prediction: 68, Ground Truth: 68
+Prediction: three, Ground Truth: three
+
+Prediction: 94, Ground Truth: 92
+Prediction: 1853, Ground Truth: manchester
+
+Prediction: 42, Ground Truth: 36
+Prediction: 1345, Ground Truth: käfigturm
+
+Prediction: 0, Ground Truth: 0
+Prediction: near-infrared, Ground Truth: near-infrared
+
+Prediction: 11, Ground Truth: 11
+Prediction: neolithic, Ground Truth: neolithic
+
+Prediction: 76, Ground Truth: 62
+Prediction: 94.4, Ground Truth: 96.2
+
+Prediction: 36, Ground Truth: 25
+Prediction: diaphragm, Ground Truth: liquid
+
+Prediction: 16, Ground Truth: 31
+Prediction: dinghai, Ground Truth: ningbo
+
+Prediction: 0, Ground Truth: 30
+Prediction: mexico, Ground Truth: detroit
+
+Prediction: 66, Ground Truth: 91
+Prediction: nine, Ground Truth: eighteen
+
+Prediction: 16, Ground Truth: 16
+Prediction: halves, Ground Truth: halves
+
+Prediction: 79, Ground Truth: 75
+Prediction: local-level, Ground Truth: citizens
+
+Prediction: 17, Ground Truth: 17
+Prediction: three, Ground Truth: three
+
+Prediction: 82, Ground Truth: 82
+Prediction: 1389, Ground Truth: 1389
+
+Prediction: 81, Ground Truth: 81
+Prediction: 1851, Ground Truth: 1851
+
+Prediction: 70, Ground Truth: 73
+Prediction: rincon, Ground Truth: east
+
+Prediction: 81, Ground Truth: 100
+Prediction: 234, Ground Truth: 2,535
+
+Prediction: 49, Ground Truth: 87
+Prediction: 1999, Ground Truth: 2003
+
+Prediction: 11, Ground Truth: 22
+Prediction: 1908, Ground Truth: 1945
+
+Prediction: 24, Ground Truth: 33
+Prediction: romania, Ground Truth: albania
+
+Prediction: 31, Ground Truth: 36
+Prediction: 4th, Ground Truth: 2nd
+
+Prediction: 22, Ground Truth: 147
+Prediction: 15.8, Ground Truth: 25.3
+
+Prediction: 41, Ground Truth: 105
+Prediction: occupy, Ground Truth: katcha
+
+Prediction: 19, Ground Truth: 19
+Prediction: 1951, Ground Truth: 1951
+
+Prediction: 30, Ground Truth: 26
+Prediction: compassionate, Ground Truth: sattva
+
+Prediction: 20, Ground Truth: 86
+Prediction: until, Ground Truth:
+
+Prediction: 36, Ground Truth: 47
+Prediction: 17, Ground Truth: nine
+
+Prediction: 61, Ground Truth: 7
+Prediction: 2006–2008, Ground Truth: white
+
+Prediction: 82, Ground Truth: 135
+Prediction: cyprus, Ground Truth: constantinople
+
+Prediction: 149, Ground Truth: 48
+Prediction: competition, Ground Truth: western
+
+Prediction: 52, Ground Truth: 30
+Prediction: 1605, Ground Truth: 1604
+
+Prediction: 189, Ground Truth: 189
+Prediction: grandson, Ground Truth: grandson
+
+Prediction: 107, Ground Truth: 107
+Prediction: ebcdic, Ground Truth: ebcdic
+
+Prediction: 16, Ground Truth: 31
+Prediction: dinghai, Ground Truth: ningbo
+
+Prediction: 18, Ground Truth: 18
+Prediction: humira, Ground Truth: humira
+
+Prediction: 28, Ground Truth: 93
+Prediction: 13, Ground Truth: 8
+
+Prediction: 40, Ground Truth: 12
+Prediction: sulfate, Ground Truth: cereals
+
+Prediction: 126, Ground Truth: 122
+Prediction: oceans, Ground Truth: comets
+
+Prediction: 22, Ground Truth: 22
+Prediction: fourth-largest, Ground Truth: fourth-largest
+
+Prediction: 61, Ground Truth: 45
+Prediction: mycobacteria, Ground Truth: slow
+
+Prediction: 17, Ground Truth: 5
+Prediction: cubism, Ground Truth: apollinaire
+
+Prediction: 68, Ground Truth: 13
+Prediction: 25, Ground Truth: 02:00
+
+Prediction: 38, Ground Truth: 1
+Prediction: 1982, Ground Truth: 1983
+
+Prediction: 134, Ground Truth: 39
+Prediction: ideational, Ground Truth: subjective
+
+Prediction: 21, Ground Truth: 132
+Prediction: jiahu, Ground Truth: yellow
+
+Prediction: 133, Ground Truth: 54
+Prediction: radio, Ground Truth: bush
+
+Prediction: 71, Ground Truth: 2
+Prediction: 2009, Ground Truth: 2004
+
+Prediction: 58, Ground Truth: 48
+Prediction: enclitics, Ground Truth: information
+
+Prediction: 4, Ground Truth: 4
+Prediction: 1867, Ground Truth: 1867
+
+Prediction: 78, Ground Truth: 0
+Prediction: six, Ground Truth: one
+
+Prediction: 24, Ground Truth: 21
+Prediction: india, Ground Truth: hindu
+
+Prediction: 53, Ground Truth: 14
+Prediction: directionality, Ground Truth: e-plane
+
+Prediction: 19, Ground Truth: 50
+Prediction: herbivores, Ground Truth: beavers
+
+Prediction: 70, Ground Truth: 135
+Prediction: coronary, Ground Truth:
+
+Prediction: 37, Ground Truth: 37
+Prediction: 2010, Ground Truth: 2010
+
+Prediction: 92, Ground Truth: 111
+Prediction: tucson, Ground Truth: hohokam
+
+Prediction: 60, Ground Truth: 173
+Prediction: targeted, Ground Truth: yeast
+
+Prediction: 2, Ground Truth: 2
+Prediction: 2009, Ground Truth: 2009
+
+Prediction: 216, Ground Truth: 80
+Prediction: , Ground Truth: nonphotosynthetic
+
+Prediction: 100, Ground Truth: 137
+Prediction: melton, Ground Truth: melbourne
+
+Prediction: 104, Ground Truth: 159
+Prediction: responsa, Ground Truth: minhag
+
+Prediction: 68, Ground Truth: 60
+Prediction: grain, Ground Truth: grain
+
+Prediction: 35, Ground Truth: 29
+Prediction: eight, Ground Truth: crypt
+
+Prediction: 104, Ground Truth: 110
+Prediction: strasbourg, Ground Truth: tin
+
+Prediction: 13, Ground Truth: 86
+Prediction: 256,644, Ground Truth: 120,031
+
+Prediction: 29, Ground Truth: 29
+Prediction: earthed, Ground Truth: earthed
+
+Prediction: 102, Ground Truth: 94
+Prediction: one-half, Ground Truth: 5,700,000
+
+Prediction: 11, Ground Truth: 11
+Prediction: alguerese, Ground Truth: alguerese
+
+Prediction: 170, Ground Truth: 22
+Prediction: july, Ground Truth: january
+
+Prediction: 3, Ground Truth: 3
+Prediction: 174,000, Ground Truth: 174,000
+
+Prediction: 74, Ground Truth: 59
+Prediction: marry, Ground Truth: japan
+
+Prediction: 124, Ground Truth: 15
+Prediction: buddhism, Ground Truth: ashoka
+
+Prediction: 7, Ground Truth: 7
+Prediction: monthly, Ground Truth: monthly
+
+Prediction: 69, Ground Truth: 15
+Prediction: rapping, Ground Truth: poetry
+
+Prediction: 16, Ground Truth: 19
+Prediction: zermatt, Ground Truth: switzerland
+
+Prediction: 23, Ground Truth: 23
+Prediction: 1976, Ground Truth: 1976
+
+Prediction: 9, Ground Truth: 131
+Prediction: music, Ground Truth:
+
+Prediction: 30, Ground Truth: 30
+Prediction: 141,000, Ground Truth: 141,000
+
+Prediction: 146, Ground Truth: 146
+Prediction: 1996, Ground Truth: 1996
+
+Prediction: 24, Ground Truth: 22
+Prediction: efficiency, Ground Truth: higher
+
+Prediction: 23, Ground Truth: 28
+Prediction: russia, Ground Truth: republic
+
+Prediction: 28, Ground Truth: 28
+Prediction: 1.6, Ground Truth: 1.6
+
+Prediction: 18, Ground Truth: 131
+Prediction: 1914, Ground Truth: 1963
+
+Prediction: 22, Ground Truth: 10
+Prediction: chetnik, Ground Truth: axis
+
+Prediction: 22, Ground Truth: 85
+Prediction: cappella, Ground Truth:
+
+Prediction: 68, Ground Truth: 76
+Prediction: 1764, Ground Truth: 1733
+
+Prediction: 61, Ground Truth: 58
+Prediction: three, Ground Truth: six
+
+Prediction: 1, Ground Truth: 1
+Prediction: 1978, Ground Truth: 1978
+
+Prediction: 9, Ground Truth: 0
+Prediction: architectural, Ground Truth: sunlight
+
+Prediction: 61, Ground Truth: 20
+Prediction: france, Ground Truth: france
+
+Prediction: 12, Ground Truth: 129
+Prediction: mirebeau, Ground Truth: tenuous
+
+Prediction: 84, Ground Truth: 3
+Prediction: unesco, Ground Truth: elementary
+
+Prediction: 32, Ground Truth: 26
+Prediction: yellow, Ground Truth: yellow
+
+Prediction: 167, Ground Truth: 167
+Prediction: , Ground Truth:
+
+Prediction: 13, Ground Truth: 13
+Prediction: cognitive, Ground Truth: cognitive
+
+Prediction: 139, Ground Truth: 51
+Prediction: bronkhorst, Ground Truth: rebirth
+
+Prediction: 16, Ground Truth: 16
+Prediction: 1565, Ground Truth: 1565
+
+Prediction: 13, Ground Truth: 10
+Prediction: nanjing, Ground Truth: east
+
+Prediction: 101, Ground Truth: 101
+Prediction: serfs, Ground Truth: serfs
+
+Prediction: 47, Ground Truth: 95
+Prediction: castros, Ground Truth: warrior
+
+Prediction: 38, Ground Truth: 56
+Prediction: 520,116, Ground Truth: 996,544
+
+Prediction: 140, Ground Truth: 93
+Prediction: mortality, Ground Truth: predators
+
+Prediction: 85, Ground Truth: 6
+Prediction: 1999, Ground Truth: 1997
+
+Prediction: 77, Ground Truth: 47
+Prediction: zakariya, Ground Truth: allah
+
+Prediction: 100, Ground Truth: 104
+Prediction: 110, Ground Truth: 75,000
+
+Prediction: 33, Ground Truth: 33
+Prediction: 1820, Ground Truth: 1820
+
+Prediction: 27, Ground Truth: 69
+Prediction: newspaper, Ground Truth:
+
+Prediction: 80, Ground Truth: 0
+Prediction: comecon, Ground Truth: tito
+
+Prediction: 39, Ground Truth: 79
+Prediction: iptv, Ground Truth: bt
+
+Prediction: 115, Ground Truth: 75
+Prediction: worldwide, Ground Truth: 64
+
+Prediction: 41, Ground Truth: 150
+Prediction: levi, Ground Truth: judah
+
+Prediction: 88, Ground Truth: 88
+Prediction: lobbying, Ground Truth: lobbying
+
+Prediction: 35, Ground Truth: 26
+Prediction: zhejiang, Ground Truth: buddhism
+
+Prediction: 186, Ground Truth: 9
+Prediction: digivices, Ground Truth: digi-eggs
+
+Prediction: 0, Ground Truth: 0
+Prediction: tibet, Ground Truth: tibet
+
+Prediction: 48, Ground Truth: 87
+Prediction: 1489, Ground Truth: 1539
+
+Prediction: 22, Ground Truth: 53
+Prediction: ardiaei, Ground Truth: agrianes
+
+Prediction: 0, Ground Truth: 49
+Prediction: insect, Ground Truth: dung
+
+Prediction: 22, Ground Truth: 22
+Prediction: hegemonies, Ground Truth: hegemonies
+
+Prediction: 10, Ground Truth: 10
+Prediction: 17th, Ground Truth: 17th
+
+Prediction: 9, Ground Truth: 115
+Prediction: rats, Ground Truth: ten
+
+Prediction: 13, Ground Truth: 79
+Prediction: fourth, Ground Truth: two
+
+Prediction: 98, Ground Truth: 229
+Prediction: discrimination, Ground Truth: merit
+
+Prediction: 2, Ground Truth: 2
+Prediction: 1963, Ground Truth: 1963
+
+Prediction: 89, Ground Truth: 104
+Prediction: mithridates, Ground Truth: herakles
+
+Prediction: 50, Ground Truth: 46
+Prediction: 15th, Ground Truth:
+
+Prediction: 1, Ground Truth: 66
+Prediction: 1870, Ground Truth: 1921
+
+Prediction: 2, Ground Truth: 2
+Prediction: 1954, Ground Truth: 1954
+
+Prediction: 5, Ground Truth: 7
+Prediction: beer, Ground Truth: alcohol
+
+Prediction: 18, Ground Truth: 51
+Prediction: electromagnetic, Ground Truth: visible
+
+Prediction: 118, Ground Truth: 60
+Prediction: building, Ground Truth: maryland
+
+Prediction: 37, Ground Truth: 37
+Prediction: 1804, Ground Truth: 1804
+
+Prediction: 2, Ground Truth: 98
+Prediction: 1950s, Ground Truth:
+
+Prediction: 118, Ground Truth: 109
+Prediction: a, Ground Truth: mastic
+
+Prediction: 69, Ground Truth: 69
+Prediction: 1890, Ground Truth: 1890
+
+Prediction: 133, Ground Truth: 105
+Prediction: lagos, Ground Truth: ogun
+
+Prediction: 0, Ground Truth: 7
+Prediction: weeks, Ground Truth: lydon
+
+Prediction: 3, Ground Truth: 3
+Prediction: 2012, Ground Truth: 2012
+
+Prediction: 28, Ground Truth: 3
+Prediction: evian-les-bains, Ground Truth: lakes
+
+Prediction: 46, Ground Truth: 50
+Prediction: 22, Ground Truth: 234
+
+Prediction: 0, Ground Truth: 32
+Prediction: locke, Ground Truth: labor
+
+Prediction: 8, Ground Truth: 8
+Prediction: 1933, Ground Truth: 1933
+
+Prediction: 32, Ground Truth: 47
+Prediction: fundamental, Ground Truth: vocabulary
+
+Prediction: 0, Ground Truth: 67
+Prediction: spirometry, Ground Truth: caffeine
+
+Prediction: 13, Ground Truth: 23
+Prediction: adoption, Ground Truth:
+
+Prediction: 148, Ground Truth: 93
+Prediction: 1980s, Ground Truth: outside
+
+Prediction: 13, Ground Truth: 33
+Prediction: somalia, Ground Truth: rise
+
+Prediction: 0, Ground Truth: 34
+Prediction: french, Ground Truth: tunisia
+
+Prediction: 64, Ground Truth: 30
+Prediction: graecia, Ground Truth: hellas
+
+Prediction: 11, Ground Truth: 134
+Prediction: cixi, Ground Truth: guangxu
+
+Prediction: 32, Ground Truth: 32
+Prediction: napoleon, Ground Truth: napoleon
+
+Prediction: 9, Ground Truth: 20
+Prediction: 560, Ground Truth: 59.34
+
+Prediction: 14, Ground Truth: 7
+Prediction: 243.66, Ground Truth: 65zn
+
+Prediction: 23, Ground Truth: 26
+Prediction: ntsc, Ground Truth:
+
+Prediction: 47, Ground Truth: 30
+Prediction: siberia, Ground Truth: arctic
+
+Prediction: 33, Ground Truth: 19
+Prediction: birkin, Ground Truth: peaceful
+
+Prediction: 3, Ground Truth: 19
+Prediction: nara, Ground Truth: copyright
+
+Prediction: 10, Ground Truth: 16
+Prediction: separate, Ground Truth: buddhism
+
+Prediction: 45, Ground Truth: 70
+Prediction: four, Ground Truth: never
+
+Prediction: 91, Ground Truth: 18
+Prediction: zawar, Ground Truth: 10th
+
+Prediction: 66, Ground Truth: 48
+Prediction: or, Ground Truth: first-person
+
+Prediction: 8, Ground Truth: 55
+Prediction: in-house, Ground Truth: pixo
+
+Prediction: 91, Ground Truth: 39
+Prediction: asmara, Ground Truth: eritrea
+
+Prediction: 112, Ground Truth: 112
+Prediction: 2002, Ground Truth: 2002
+
+Prediction: 101, Ground Truth: 57
+Prediction: antigonus, Ground Truth: cassander
+
+Prediction: 27, Ground Truth: 45
+Prediction: gellius, Ground Truth: cicero
+
+Prediction: 57, Ground Truth: 11
+Prediction: professors, Ground Truth: annually
+
+Prediction: 20, Ground Truth: 36
+Prediction: 1.8, Ground Truth:
+
+Prediction: 103, Ground Truth: 44
+Prediction: ātman, Ground Truth: emptiness
+
+Prediction: 29, Ground Truth: 38
+Prediction: architectural, Ground Truth: neoclassical
+
+Prediction: 91, Ground Truth: 8
+Prediction: houston, Ground Truth: fredericksburg
+
+Prediction: 23, Ground Truth: 23
+Prediction: 5th, Ground Truth: 5th
+
+Prediction: 123, Ground Truth: 123
+Prediction: cello, Ground Truth: cello
+
+Prediction: 99, Ground Truth: 96
+Prediction: enewetak, Ground Truth: elugelab
+
+Prediction: 15, Ground Truth: 133
+Prediction: 1997, Ground Truth: 2003
+
+Prediction: 69, Ground Truth: 75
+Prediction: 305, Ground Truth: four
+
+Prediction: 5, Ground Truth: 9
+Prediction: hunting, Ground Truth: islands
+
+Prediction: 12, Ground Truth: 12
+Prediction: linguists, Ground Truth: linguists
+
+Prediction: 63, Ground Truth: 63
+Prediction: 16th, Ground Truth: 16th
+
+Prediction: 36, Ground Truth: 39
+Prediction: august, Ground Truth: sabha
+
+Prediction: 93, Ground Truth: 98
+Prediction: japanese, Ground Truth: japanese
+
+Prediction: 81, Ground Truth: 81
+Prediction: re-baptized, Ground Truth: re-baptized
+
+Prediction: 17, Ground Truth: 17
+Prediction: nine, Ground Truth: nine
+
+Prediction: 6, Ground Truth: 6
+Prediction: 1825, Ground Truth: 1825
+
+Prediction: 17, Ground Truth: 11
+Prediction: humans, Ground Truth: beneficial
+
+Prediction: 99, Ground Truth: 111
+Prediction: sirte, Ground Truth: sabha
+
+Prediction: 20, Ground Truth: 16
+Prediction: mexico, Ground Truth: díaz
+
+Prediction: 26, Ground Truth: 12
+Prediction: latewood, Ground Truth: quality
+
+Prediction: 63, Ground Truth: 63
+Prediction: 2011, Ground Truth: 2011
+
+Prediction: 34, Ground Truth: 1
+Prediction: pocitos, Ground Truth: pocitos
+
+Prediction: 2, Ground Truth: 2
+Prediction: 1990s, Ground Truth: 1990s
+
+Prediction: 104, Ground Truth: 81
+Prediction: mystics, Ground Truth: dartford
+
+Prediction: 0, Ground Truth: 0
+Prediction: madonna, Ground Truth: madonna
+
+Prediction: 128, Ground Truth: 138
+Prediction: insee, Ground Truth: 10,550,350
+
+Prediction: 8, Ground Truth: 65
+Prediction: atoms, Ground Truth: earthquakes
+
+Prediction: 32, Ground Truth: 48
+Prediction: optronics, Ground Truth: britain
+
+Prediction: 41, Ground Truth: 82
+Prediction: whiskers, Ground Truth: tension
+
+Prediction: 57, Ground Truth: 142
+Prediction: 1968, Ground Truth: 1973
+
+Prediction: 22, Ground Truth: 3
+Prediction: naturalized, Ground Truth: british
+
+Prediction: 45, Ground Truth: 184
+Prediction: katakana, Ground Truth: yamato-e
+
+Prediction: 72, Ground Truth: 72
+Prediction: 8th, Ground Truth: 8th
+
+Prediction: 116, Ground Truth: 116
+Prediction: 2010, Ground Truth: 2010
+
+Prediction: 57, Ground Truth: 57
+Prediction: europe, Ground Truth: europe
+
+Prediction: 34, Ground Truth: 127
+Prediction: 1997, Ground Truth: december
+
+Prediction: 26, Ground Truth: 8
+Prediction: 1724, Ground Truth: 1720
+
+Prediction: 13, Ground Truth: 79
+Prediction: fourth, Ground Truth: two
+
+Prediction: 89, Ground Truth: 62
+Prediction: fat32, Ground Truth: hfs+
+
+Prediction: 21, Ground Truth: 254
+Prediction: peshwas, Ground Truth: british
+
+Prediction: 89, Ground Truth: 87
+Prediction: absentia, Ground Truth: execution
+
+Prediction: 20, Ground Truth: 20
+Prediction: 345, Ground Truth: 345
+
+Prediction: 14, Ground Truth: 30
+Prediction: 69,197, Ground Truth: 18,222
+
+Prediction: 98, Ground Truth: 90
+Prediction: thermal, Ground Truth: 12,500
+
+Prediction: 3, Ground Truth: 41
+Prediction: translators, Ground Truth: passive
+
+Prediction: 13, Ground Truth: 1
+Prediction: unfpa, Ground Truth: america
+
+Prediction: 57, Ground Truth: 15
+Prediction: bst, Ground Truth: standard
+
+Prediction: 8, Ground Truth: 15
+Prediction: maghreb, Ground Truth: tunisia
+
+Prediction: 44, Ground Truth: 39
+Prediction: 28, Ground Truth: esquire
+
+Prediction: 94, Ground Truth: 9
+Prediction: 60,000, Ground Truth: 20,000
+
+Prediction: 24, Ground Truth: 40
+Prediction: 1836, Ground Truth: poland
+
+Prediction: 3, Ground Truth: 3
+Prediction: 1563, Ground Truth: 1563
+
+Prediction: 69, Ground Truth: 64
+Prediction: genes, Ground Truth:
+
+Prediction: 25, Ground Truth: 2
+Prediction: 1060s, Ground Truth: 11th
+
+Prediction: 17, Ground Truth: 7
+Prediction: 2002, Ground Truth: 2010
+
+Prediction: 48, Ground Truth: 6
+Prediction: member, Ground Truth: fbi
+
+Prediction: 20, Ground Truth: 20
+Prediction: 35, Ground Truth: 35
+
+Prediction: 64, Ground Truth: 64
+Prediction: lisbon, Ground Truth: lisbon
+
+Prediction: 53, Ground Truth: 50
+Prediction: budapest, Ground Truth: fencing
+
+Prediction: 68, Ground Truth: 57
+Prediction: photoreceptors, Ground Truth: eyes
+
+Prediction: 20, Ground Truth: 20
+Prediction: £24.7m, Ground Truth: £24.7m
+
+Prediction: 74, Ground Truth: 56
+Prediction: rhodes, Ground Truth: pergamon
+
+Prediction: 63, Ground Truth: 63
+Prediction: 2004, Ground Truth: 2004
+
+Prediction: 5, Ground Truth: 5
+Prediction: irish, Ground Truth: irish
+
+Prediction: 59, Ground Truth: 56
+Prediction: by, Ground Truth: indonesia
+
+Prediction: 58, Ground Truth: 152
+Prediction: carbon, Ground Truth: bamboo
+
+Prediction: 58, Ground Truth: 81
+Prediction: mosques, Ground Truth: juzʼ
+
+Prediction: 15, Ground Truth: 14
+Prediction: avenue, Ground Truth: first
+
+Prediction: 5, Ground Truth: 3
+Prediction: videocassettes, Ground Truth: cheaper
+
+Prediction: 108, Ground Truth: 18
+Prediction: ties, Ground Truth: bedaquiline
+
+Prediction: 26, Ground Truth: 47
+Prediction: deaths, Ground Truth: children
+
+Prediction: 4, Ground Truth: 4
+Prediction: peritonitis, Ground Truth: peritonitis
+
+Prediction: 201, Ground Truth: 34
+Prediction: 2015, Ground Truth: 2000
+
+Prediction: 24, Ground Truth: 128
+Prediction: resilient, Ground Truth: unlimited
+
+Prediction: 29, Ground Truth: 59
+Prediction: south, Ground Truth: west
+
+Prediction: 20, Ground Truth: 210
+Prediction: 1923, Ground Truth: 1937
+
+Prediction: 52, Ground Truth: 74
+Prediction: 30,000-strong, Ground Truth: transport
+
+Prediction: 73, Ground Truth: 73
+Prediction: sovdepia, Ground Truth: sovdepia
+
+Prediction: 58, Ground Truth: 73
+Prediction: germany, Ground Truth: france
+
+Prediction: 88, Ground Truth: 52
+Prediction: ,, Ground Truth: kupedia
+
+Prediction: 11, Ground Truth: 17
+Prediction: 200, Ground Truth: 72
+
+Prediction: 13, Ground Truth: 23
+Prediction: classical, Ground Truth: beethoven
+
+Prediction: 1, Ground Truth: 89
+Prediction: bronze-era, Ground Truth: yerevan
+
+Prediction: 12, Ground Truth: 115
+Prediction: defeated, Ground Truth: salisbury
+
+Prediction: 57, Ground Truth: 106
+Prediction: knots, Ground Truth: heartwood
+
+Prediction: 53, Ground Truth: 53
+Prediction: 2004, Ground Truth: 2004
+
+Prediction: 67, Ground Truth: 48
+Prediction: 78, Ground Truth: 60
+
+Prediction: 23, Ground Truth: 23
+Prediction: seven, Ground Truth: seven
+
+Prediction: 9, Ground Truth: 205
+Prediction: schedule, Ground Truth: 2014
+
+Prediction: 56, Ground Truth: 41
+Prediction: jamaica, Ground Truth: parks
+
+Prediction: 27, Ground Truth: 161
+Prediction: annelids, Ground Truth: oligochaetes
+
+Prediction: 62, Ground Truth: 65
+Prediction: consisting, Ground Truth: infantry
+
+Prediction: 107, Ground Truth: 107
+Prediction: two, Ground Truth: two
+
+Prediction: 83, Ground Truth: 83
+Prediction: paris, Ground Truth: paris
+
+Prediction: 44, Ground Truth: 44
+Prediction: 1868, Ground Truth: 1868
+
+Prediction: 58, Ground Truth: 144
+Prediction: 2009, Ground Truth: brazil
+
+Prediction: 17, Ground Truth: 25
+Prediction: apterygota, Ground Truth: pterygota
+
+Prediction: 119, Ground Truth: 119
+Prediction: 1911, Ground Truth: 1911
+
+Prediction: 73, Ground Truth: 56
+Prediction: gorbachev, Ground Truth: union
+
+Prediction: 5, Ground Truth: 5
+Prediction: 2010, Ground Truth: 2010
+
+Prediction: 0, Ground Truth: 83
+Prediction: youtube, Ground Truth: coordinate
+
+Prediction: 58, Ground Truth: 123
+Prediction: serbo-croatian, Ground Truth: bosnian
+
+Prediction: 47, Ground Truth: 28
+Prediction: 1944, Ground Truth: one-hour
+
+Prediction: 54, Ground Truth: 23
+Prediction: oriental, Ground Truth: christian
+
+Prediction: 101, Ground Truth: 116
+Prediction: the, Ground Truth: risk
+
+Prediction: 25, Ground Truth: 25
+Prediction: 1987, Ground Truth: 1987
+
+Prediction: 89, Ground Truth: 106
+Prediction: luxembourg, Ground Truth: japan
+
+Prediction: 19, Ground Truth: 90
+Prediction: prophets, Ground Truth: angels
+
+Prediction: 59, Ground Truth: 59
+Prediction: jerusalem, Ground Truth: jerusalem
+
+Prediction: 77, Ground Truth: 77
+Prediction: 1853, Ground Truth: 1853
+
+Prediction: 92, Ground Truth: 90
+Prediction: christian, Ground Truth: ritual
+
+Prediction: 54, Ground Truth: 54
+Prediction: inverse, Ground Truth: inverse
+
+Prediction: 6, Ground Truth: 44
+Prediction: second-growth, Ground Truth: strength
+
+Prediction: 16, Ground Truth: 33
+Prediction: 63, Ground Truth: six
+
+Prediction: 146, Ground Truth: 153
+Prediction: umayyad, Ground Truth: damascus
+
+Prediction: 1, Ground Truth: 59
+Prediction: constantinople, Ground Truth: germany
+
+Prediction: 52, Ground Truth: 82
+Prediction: gregorian, Ground Truth:
+
+Prediction: 2, Ground Truth: 18
+Prediction: coffin, Ground Truth: red
+
+Prediction: 33, Ground Truth: 28
+Prediction: 2006, Ground Truth: 2004
+
+Prediction: 46, Ground Truth: 2
+Prediction: 1916, Ground Truth: 1910
+
+Prediction: 130, Ground Truth: 7
+Prediction: music, Ground Truth: punk
+
+Prediction: 22, Ground Truth: 22
+Prediction: two, Ground Truth: two
+
+Prediction: 24, Ground Truth: 98
+Prediction: 525, Ground Truth: 246
+
+Prediction: 17, Ground Truth: 8
+Prediction: challenge, Ground Truth: father
+
+Prediction: 36, Ground Truth: 39
+Prediction: opening, Ground Truth:
+
+Prediction: 73, Ground Truth: 73
+Prediction: midna, Ground Truth: midna
+
+Prediction: 24, Ground Truth: 24
+Prediction: 90th, Ground Truth: 90th
+
+Prediction: 57, Ground Truth: 27
+Prediction: sarmatians, Ground Truth: odwieczna
+
+Prediction: 56, Ground Truth: 56
+Prediction: individuality, Ground Truth: individuality
+
+Prediction: 67, Ground Truth: 101
+Prediction: 1905, Ground Truth: 1914
+
+Prediction: 42, Ground Truth: 76
+Prediction: bureaucracy, Ground Truth: parades
+
+Prediction: 30, Ground Truth: 30
+Prediction: 6,000, Ground Truth: 6,000
+
+Prediction: 48, Ground Truth: 48
+Prediction: limited-access, Ground Truth: limited-access
+
+Prediction: 98, Ground Truth: 102
+Prediction: 35, Ground Truth: five
+
+Prediction: 89, Ground Truth: 87
+Prediction: sacred, Ground Truth: tradition
+
+Prediction: 54, Ground Truth: 54
+Prediction: acoustic, Ground Truth: acoustic
+
+Prediction: 0, Ground Truth: 0
+Prediction: ethical, Ground Truth: ethical
+
+Prediction: 19, Ground Truth: 31
+Prediction: transpiration, Ground Truth: temperature
+
+Prediction: 23, Ground Truth: 23
+Prediction: 1988, Ground Truth: 1988
+
+Prediction: 107, Ground Truth: 107
+Prediction: idaho, Ground Truth: idaho
+
+Prediction: 117, Ground Truth: 117
+Prediction: 784, Ground Truth: 784
+
+Prediction: 75, Ground Truth: 75
+Prediction: 1980, Ground Truth: 1980
+
+Prediction: 13, Ground Truth: 13
+Prediction: 1,335, Ground Truth: 1,335
+
+Prediction: 16, Ground Truth: 120
+Prediction: 1881, Ground Truth: first
+
+Prediction: 177, Ground Truth: 167
+Prediction: fermentation, Ground Truth: mould
+
+Prediction: 21, Ground Truth: 21
+Prediction: scholasticism, Ground Truth: scholasticism
+
+Prediction: 108, Ground Truth: 6
+Prediction: gorbachev, Ground Truth: gorbachev
+
+Prediction: 35, Ground Truth: 35
+Prediction: 33,000, Ground Truth: 33,000
+
+Prediction: 134, Ground Truth: 177
+Prediction: 3, Ground Truth: one-year
+
+Prediction: 103, Ground Truth: 103
+Prediction: 14, Ground Truth: 14
+
+Prediction: 92, Ground Truth: 56
+Prediction: 128,000, Ground Truth: 1/11
+
+Prediction: 17, Ground Truth: 93
+Prediction: jornado, Ground Truth: tepehuan
+
+Prediction: 2, Ground Truth: 18
+Prediction: presentism, Ground Truth: exist
+
+Prediction: 41, Ground Truth: 57
+Prediction: cappella, Ground Truth:
+
+Prediction: 17, Ground Truth: 4
+Prediction: butler, Ground Truth: southern
+
+Prediction: 271, Ground Truth: 201
+Prediction: brass, Ground Truth: bronze
+
+Prediction: 20, Ground Truth: 63
+Prediction: kuhn, Ground Truth: relativism
+
+Prediction: 34, Ground Truth: 34
+Prediction: genoa, Ground Truth: genoa
+
+Prediction: 78, Ground Truth: 36
+Prediction: emishi, Ground Truth: emishi
+
+Prediction: 147, Ground Truth: 187
+Prediction: 1965, Ground Truth: 1984
+
+Prediction: 88, Ground Truth: 181
+Prediction: quran, Ground Truth:
+
+Prediction: 25, Ground Truth: 25
+Prediction: 1987, Ground Truth: 1987
+
+Prediction: 67, Ground Truth: 1
+Prediction: 1867, Ground Truth: 1865
+
+Prediction: 19, Ground Truth: 19
+Prediction: fachhochschule, Ground Truth: fachhochschule
+
+Prediction: 57, Ground Truth: 44
+Prediction: atheistic, Ground Truth: cold
+
+Prediction: 82, Ground Truth: 78
+Prediction: 36,452, Ground Truth: 48,679
+
+Prediction: 89, Ground Truth: 102
+Prediction: deaths, Ground Truth: snowfall
+
+Prediction: 28, Ground Truth: 4
+Prediction: periphrastic, Ground Truth: subject–verb–object
+
+Prediction: 18, Ground Truth: 18
+Prediction: cooling, Ground Truth: cooling
+
+Prediction: 76, Ground Truth: 86
+Prediction: dubose, Ground Truth: morphine
+
+Prediction: 60, Ground Truth: 60
+Prediction: atheist, Ground Truth: atheist
+
+Prediction: 31, Ground Truth: 31
+Prediction: australia, Ground Truth: australia
+
+Prediction: 5, Ground Truth: 5
+Prediction: coachella, Ground Truth: coachella
+
+Prediction: 21, Ground Truth: 103
+Prediction: charleston, Ground Truth: 1920s
+
+Prediction: 35, Ground Truth: 36
+Prediction: by, Ground Truth:
+
+Prediction: 62, Ground Truth: 5
+Prediction: tamar, Ground Truth: limestone
+
+Prediction: 105, Ground Truth: 3
+Prediction: slipping, Ground Truth: pc
+
+Prediction: 60, Ground Truth: 123
+Prediction: dismissed, Ground Truth: press
+
+Prediction: 80, Ground Truth: 89
+Prediction: okc, Ground Truth: bison
+
+Prediction: 43, Ground Truth: 43
+Prediction: monasteries, Ground Truth: monasteries
+
+Prediction: 35, Ground Truth: 47
+Prediction: priori, Ground Truth: space
+
+Prediction: 66, Ground Truth: 66
+Prediction: five, Ground Truth: five
+
+Prediction: 66, Ground Truth: 97
+Prediction: messiah, Ground Truth:
+
+Prediction: 37, Ground Truth: 37
+Prediction: frisians, Ground Truth: frisians
+
+Prediction: 56, Ground Truth: 35
+Prediction: restdeutsche, Ground Truth: aussiedler
+
+Prediction: 25, Ground Truth: 33
+Prediction: invertebrates, Ground Truth: chitinous
+
+Prediction: 47, Ground Truth: 47
+Prediction: 40,000, Ground Truth: 40,000
+
+Prediction: 19, Ground Truth: 19
+Prediction: renewables, Ground Truth: renewables
+
+Prediction: 31, Ground Truth: 1
+Prediction: 2000, Ground Truth: 1941
+
+Prediction: 93, Ground Truth: 88
+Prediction: harvard, Ground Truth: hebrew
+
+Prediction: 82, Ground Truth: 237
+Prediction: 21, Ground Truth: four
+
+Prediction: 10, Ground Truth: 10
+Prediction: go-sanjō, Ground Truth: go-sanjō
+
+Prediction: 106, Ground Truth: 106
+Prediction: 500, Ground Truth: 500
+
+Prediction: 14, Ground Truth: 14
+Prediction: 1987, Ground Truth: 1987
+
+Prediction: 1, Ground Truth: 17
+Prediction: 1979, Ground Truth: 1981
+
+Prediction: 61, Ground Truth: 61
+Prediction: philopatry, Ground Truth: philopatry
+
+Prediction: 77, Ground Truth: 107
+Prediction: sapwood, Ground Truth: heartwood
+
+Prediction: 59, Ground Truth: 2
+Prediction: protestant, Ground Truth: baptism
+
+Prediction: 28, Ground Truth: 7
+Prediction: one-fifth, Ground Truth: 225,000
+
+Prediction: 12, Ground Truth: 45
+Prediction: eight, Ground Truth: five
+
+Prediction: 0, Ground Truth: 0
+Prediction: deism, Ground Truth: deism
+
+Prediction: 80, Ground Truth: 6
+Prediction: backbone, Ground Truth: satellite
+
+Prediction: 6, Ground Truth: 6
+Prediction: 656, Ground Truth: 656
+
+Prediction: 36, Ground Truth: 11
+Prediction: undergraduate, Ground Truth: lectures
+
+Prediction: 62, Ground Truth: 70
+Prediction: well-disposed, Ground Truth: chinese
+
+Prediction: 34, Ground Truth: 28
+Prediction: kpa, Ground Truth: macarthur
+
+Prediction: 21, Ground Truth: 254
+Prediction: peshwas, Ground Truth: british
+
+Prediction: 6, Ground Truth: 6
+Prediction: 36,620, Ground Truth: 36,620
+
+Prediction: 51, Ground Truth: 179
+Prediction: gallery, Ground Truth: 37
+
+Prediction: 107, Ground Truth: 67
+Prediction: sinuiju, Ground Truth: pyongyang
+
+Prediction: 41, Ground Truth: 18
+Prediction: hannibal, Ground Truth: macedonia
+
+Prediction: 43, Ground Truth: 16
+Prediction: french, Ground Truth: footballer
+
+Prediction: 47, Ground Truth: 109
+Prediction: pc, Ground Truth: wma
+
+Prediction: 11, Ground Truth: 11
+Prediction: theravadin, Ground Truth: theravadin
+
+Prediction: 95, Ground Truth: 95
+Prediction: umar, Ground Truth: umar
+
+Prediction: 11, Ground Truth: 19
+Prediction: activewear, Ground Truth: topshop
+
+Prediction: 1, Ground Truth: 1
+Prediction: 1902, Ground Truth: 1902
+
+Prediction: 146, Ground Truth: 24
+Prediction: 1993, Ground Truth: 1993
+
+Prediction: 120, Ground Truth: 60
+Prediction: oklahomans, Ground Truth: tulsa
+
+Prediction: 70, Ground Truth: 45
+Prediction: demo, Ground Truth: one
+
+Prediction: 64, Ground Truth: 68
+Prediction: beetles, Ground Truth: scavengers
+
+Prediction: 52, Ground Truth: 24
+Prediction: crossover, Ground Truth: instrumental
+
+Prediction: 162, Ground Truth: 88
+Prediction: 200, Ground Truth: 57
+
+Prediction: 69, Ground Truth: 71
+Prediction: reign, Ground Truth:
+
+Prediction: 42, Ground Truth: 63
+Prediction: leds, Ground Truth: modulated
+
+Prediction: 108, Ground Truth: 53
+Prediction: probability, Ground Truth: hypothetical
+
+Prediction: 56, Ground Truth: 34
+Prediction: 1970–71, Ground Truth: 1969–70
+
+Prediction: 43, Ground Truth: 43
+Prediction: paean, Ground Truth: paean
+
+Prediction: 32, Ground Truth: 40
+Prediction: berber, Ground Truth: po-pa-li
+
+Prediction: 62, Ground Truth: 62
+Prediction: tv, Ground Truth: tv
+
+Prediction: 106, Ground Truth: 115
+Prediction: arctic, Ground Truth: greenpeace
+
+Prediction: 80, Ground Truth: 77
+Prediction: 1620, Ground Truth: 1588
+
+Prediction: 139, Ground Truth: 139
+Prediction: 2007, Ground Truth: 2007
+
+Prediction: 1, Ground Truth: 1
+Prediction: 1849, Ground Truth: 1849
+
+Prediction: 12, Ground Truth: 130
+Prediction: beowulf, Ground Truth: cædmon
+
+Prediction: 100, Ground Truth: 104
+Prediction: 110, Ground Truth: 75,000
+
+Prediction: 129, Ground Truth: 40
+Prediction: newport, Ground Truth: minnesota
+
+Prediction: 1, Ground Truth: 1
+Prediction: 2012, Ground Truth: 2012
+
+Prediction: 88, Ground Truth: 88
+Prediction: 1965, Ground Truth: 1965
+
+Prediction: 95, Ground Truth: 95
+Prediction: 13,000,000, Ground Truth: 13,000,000
+
+Prediction: 72, Ground Truth: 74
+Prediction: executed, Ground Truth: hanged
+
+Prediction: 29, Ground Truth: 21
+Prediction: formation, Ground Truth: exclusively
+
+Prediction: 78, Ground Truth: 78
+Prediction: trier, Ground Truth: trier
+
+Prediction: 21, Ground Truth: 19
+Prediction: lieberman, Ground Truth: clark
+
+Prediction: 32, Ground Truth: 11
+Prediction: bronx, Ground Truth:
+
+Prediction: 58, Ground Truth: 53
+Prediction: tremont, Ground Truth:
+
+Prediction: 22, Ground Truth: 20
+Prediction: expulsions, Ground Truth: vojvodina
+
+Prediction: 101, Ground Truth: 99
+Prediction: australia, Ground Truth: neighbours
+
+Prediction: 42, Ground Truth: 59
+Prediction: myrrh, Ground Truth: mycenaeans
+
+Prediction: 8, Ground Truth: 8
+Prediction: 1228, Ground Truth: 1228
+
+Prediction: 195, Ground Truth: 79
+Prediction: , Ground Truth: three
+
+Prediction: 53, Ground Truth: 53
+Prediction: forty-eight, Ground Truth: forty-eight
+
+Prediction: 19, Ground Truth: 21
+Prediction: france, Ground Truth: roscoff
+
+Prediction: 28, Ground Truth: 66
+Prediction: hornussen, Ground Truth: alpine
+
+Prediction: 13, Ground Truth: 13
+Prediction: 37, Ground Truth: 37
+
+Prediction: 5, Ground Truth: 139
+Prediction: 59.5, Ground Truth: 0.2
+
+Prediction: 93, Ground Truth: 93
+Prediction: 2006, Ground Truth: 2006
+
+Prediction: 88, Ground Truth: 82
+Prediction: refresh, Ground Truth: 5:3

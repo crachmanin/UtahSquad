@@ -314,8 +314,8 @@ def generate_features(data):
                             break
 
                         sent_entity_features(sent, sent_num, features)
-                        root_features(sent, sent_num, question_root,
-                                      unique_question_words, features)
+                        # root_features(sent, sent_num, question_root,
+                                      # unique_question_words, features)
 
                     if answer_start in token_dict:
                         # change this for sentence vs word answers

@@ -277,6 +277,7 @@ def sent_tf_idf_features(c_parsed, unique_question_words, unique_question_bigram
 
 def generate_features(data):
     result = []
+    ids = []
     global parser
     for topic in data['data']:
         for pgraph in topic['paragraphs']:
@@ -290,6 +291,7 @@ def generate_features(data):
 
             for qa in pgraph['qas']:
                 question = qa['question']
+                question_id = qa['id']
                 q_parsed = parser(question)
                 question_root = list(q_parsed.sents)[0].root
                 question_words = [token.orth_.lower() for token in q_parsed]
@@ -324,7 +326,8 @@ def generate_features(data):
                             libsvm_features = ["%d:1" % feat_num for feat_num in sorted(features)]
                             libsvm_features = " ".join(libsvm_features)
                             result.append("%d " % answer_idx + libsvm_features)
-    return result
+                            ids.append(question_id)
+    return result, ids
 
 def main():
     global _DEV
@@ -341,12 +344,16 @@ def main():
     # data['data'] = data['data'][:100]
 
     get_idfs(data)
-    features = generate_features(data)
+    features, ids = generate_features(data)
 
-    out_fn = "train_features.txt"
+    feat_fn = "train_features.txt"
     if _DEV:
-        out_fn = "dev_features.txt"
-    with open(out_fn, 'w') as fp:
+        id_fn = "dev_ids.txt"
+        with open(id_fn, 'w') as fp:
+            for line in ids:
+                fp.write(line.encode("utf-8") + '\n')
+        feat_fn = "dev_features.txt"
+    with open(feat_fn, 'w') as fp:
         for line in features:
             fp.write(line + '\n')
 
