@@ -17,15 +17,11 @@ _TEST = False
 FEATURE_DICT = {
     "UNK_SENT_SIM":  0,
     "UNK_WW_SENT_SIM":  1,
-    "UNK_WORD_SENT_TF_IDF": 2,
-    "UNK_BIGRAM_SENT_TF_IDF": 3
+    "UNK_NP_SIM":  2,
+    "UNK_WW_NP_SIM":  3,
+    "UNK_WORD_SENT_TF_IDF": 4,
+    "UNK_BIGRAM_SENT_TF_IDF": 5
 }
-
-
-def find_token(answer_start, token_dict, answer_text):
-    closest_below = max([key for key in token_dict.keys() if key < answer_start])
-    closest_above = min([key for key in token_dict.keys() if key > answer_start])
-    return closest_below, closest_above
 
 
 def bigrams(words):
@@ -130,21 +126,26 @@ def lexicalized_lemma_features(np, q_parsed):
     return result
 
 
-def dependency_path_features(np, sent_num, sents, unique_question_words):
-    result = set()
-    # for word in sents[sent_num]:
-        # if word in unique_question_words:
-            # result.add(get_feat_num("LEX_LEMMA_%s_%s" %
-                                         # (q_word.lemma_, np_token.lemma_)))
-            # head1 = np.root.head.lemma_
-            # dep1 = np.root.dep_
-            # head2 = np.root.head.head.lemma_
-            # dep2 = np.root.head.dep_
-            # result.add(get_feat_num("LEX_LEMMA_DEP1%s_%s->%s" %
-                                         # (q_word.lemma_, head1, dep1)))
-            # result.add(get_feat_num("LEX_LEMMA_DEP2%s_%s->%s" %
-                                         # (q_word.lemma_, head2, dep2)))
+def path_to_root(token):
+    result = []
+    curr = token
+    while True:
+        result.append("%s_%s" % (curr.pos_, curr.dep_))
+        if str(curr.dep_) == "ROOT":
+            return "->".join(result)
+        curr = curr.head
 
+
+def dependency_path_features(np, sent_num, sents, unique_question_words, q_parsed):
+    result = set()
+    right_path = path_to_root(np.root)
+    for i in xrange(3):
+        q_word = q_parsed[i].orth_
+        for word in sents[sent_num]:
+            if word.orth_.lower() in unique_question_words:
+                left_path = path_to_root(word)
+                result.add(get_feat_num("DEP_PATH_%d_%s_%s_%s" %
+                                        (i, q_word, left_path, right_path)))
     return result
 
 
@@ -165,10 +166,10 @@ def root_features(sents, sent_num, question_root, unique_question_words, feature
         root_match_lemma_feat_num = get_feat_num("ROOT_MATCH_LEMMA")
         features.append(root_match_lemma_feat_num)
 
-    if question_root.orth_ in sent_words:
+    if question_root.orth_.lower() in sent_words:
         sent_contains_quest_root_feat_num = get_feat_num("SENT_CONTAINS_QUEST_ROOT")
         features.append(sent_contains_quest_root_feat_num)
-    if sent.root.orth_ in unique_question_words:
+    if sent.root.orth_.lower() in unique_question_words:
         quest_contains_sent_root_feat_num = get_feat_num("QUEST_CONTAINS_SENT_ROOT")
         features.append(quest_contains_sent_root_feat_num)
 
@@ -209,7 +210,7 @@ def left_right_context(np, sent_num, sent_boundaries, c_parsed, q_parsed, featur
         q_word = q_parsed[i].orth_
         for j, token in enumerate(reversed(left_words)):
             features.append(get_feat_num("LEFT_WORD_CONTEXT_%d_%s_%d_%s" %
-                                         (i, q_word, j, token.orth_)))
+                                         (i, q_word, j, token.orth_.lower())))
 
     right_words = [c_parsed[np.end + i] for i in xrange(5)
                    if np.end + i < sent_boundaries[sent_num][1]]
@@ -217,7 +218,7 @@ def left_right_context(np, sent_num, sent_boundaries, c_parsed, q_parsed, featur
         q_word = q_parsed[i].orth_
         for j, token in enumerate(right_words):
             features.append(get_feat_num("RIGHT_WORD_CONTEXT_%d_%s_%d_%s"
-                                         % (i, q_word, j, token.orth_)))
+                                         % (i, q_word, j, token.orth_.lower())))
 
 
 def np_words_in_question(np, unique_question_words, unique_question_bigrams):
@@ -248,6 +249,38 @@ def calc_sent_quest_sim(c_parsed, q_parsed):
         word_wise_sent_sims.append(word_wise_sent_sim)
 
     return normalize_list(sent_sims), normalize_list(word_wise_sent_sims)
+
+
+def calc_np_quest_sim(all_nps, q_parsed):
+    np_sims = []
+    word_wise_np_sims = []
+    for np in all_nps:
+        np_sims.append(np.similarity(q_parsed))
+        word_wise_np_sim = 0
+        for word in np:
+            for q_word in q_parsed:
+                word_wise_np_sim += word.similarity(q_word)
+        word_wise_np_sims.append(word_wise_np_sim)
+
+    return normalize_list(np_sims), normalize_list(word_wise_np_sims)
+
+
+def np_sim_features(np_num, sims, features):
+    np_sims, word_wise_np_sims = sims
+    np_sim = np_sims[np_num]
+    ww_np_sim = word_wise_np_sims[np_num]
+
+    np_sim_feat_num = get_feat_num("NP_SIM_%d" % np_sim)
+    if np_sim_feat_num:
+        features.append(np_sim_feat_num)
+    else:
+        features.append(get_feat_num("UNK_NP_SIM"))
+
+    ww_np_sim_feat_num = get_feat_num("WW_NP_SIM_%d" % ww_np_sim)
+    if ww_np_sim_feat_num:
+        features.append(ww_np_sim_feat_num)
+    else:
+        features.append(get_feat_num("UNK_WW_NP_SIM"))
 
 
 def sent_sim_features(sent_num, sims, features):
@@ -437,31 +470,52 @@ def generate_features(data):
 
                     sent_num = get_sent_num(np, sent_boundaries)
 
+                    # tf-idf and similarity features
                     sent_sim_features(sent_num, sims, features)
                     sent_tf_idf_features(sent_num, tf_idfs, features)
                     np_tf_idf_features(np_num, np_tf_idfs, features)
 
+                    # sentence root match features
                     root_features(sents, sent_num, question_root,
                                     unique_question_words, features)
 
+                    # whether or not context words appear in question
                     left_right_in_question(np, sent_num, sent_boundaries,
                                             c_parsed, unique_question_words,
                                             unique_question_bigrams, features)
 
+                    # whether or not np words appear in question
                     features += np_words_in_question(np, unique_question_words,
                                                      unique_question_bigrams)
 
+                    # lexicalized features from paper
                     features += lexicalized_lemma_features(np, q_parsed)
+
+                    # dependency paths of pos paired wiht question words
+                    features += dependency_path_features(np, sent_num, sents,
+                                                         unique_question_words,
+                                                         q_parsed)
+
+                    # named entities in np paired with question words
                     wh_ent_features(np, q_parsed, features)
+
+                    # pos tags in np paired with question words
                     span_pos_features(np, q_parsed, features)
+
+                    # context words paired with question words
                     left_right_context(np, sent_num, sent_boundaries, c_parsed,
                                        q_parsed, features)
 
-                    # add features for lexicalized and dependency paths
                     # feature for dependency link to question root
                     # feature for dependency link to question entities
                     # add phi and omega?
+                    # add unk entries for all features?
                     # add joint span context with first 3 words/ redundant with lexicalized?
+                    # question root distance to span
+                    # question root matches context
+                    # question entities match context
+                    # question entities dependency path to span
+                    # question to span similarity
                     # span length features appear not to work
 
                     if _TEST:
