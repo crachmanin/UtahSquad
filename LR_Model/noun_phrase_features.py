@@ -5,6 +5,7 @@ import math
 from collections import Counter
 import sys
 import os
+from tqdm import tqdm
 
 word_idf_counter = Counter()
 bigram_idf_counter = Counter()
@@ -95,14 +96,14 @@ def normalize_list(l1):
 
 
 def wh_ent_features(np, q_parsed, features):
-    for i in xrange(3):
-        q_word = q_parsed[i].orth_
+    for i, q_word in enumerate(q_parsed[:3]):
+        q_word = q_word.orth_
         features.append(get_feat_num("Q_WORD_NP_ENT_%d_%s_%s" % (i, q_word, np.label_)))
 
 
 def span_pos_features(np, q_parsed, features):
-    for i in xrange(3):
-        q_word = q_parsed[i].orth_
+    for i, q_word in enumerate(q_parsed[:3]):
+        q_word = q_word.orth_
         for j, token in enumerate(list(np)):
             features.append(get_feat_num("Q_WORD_NP_POS_%d_%d_%s_%s" %
                                          (i, j, q_word, token.pos_)))
@@ -126,7 +127,7 @@ def lexicalized_lemma_features(np, q_parsed):
     return result
 
 
-def path_to_root(token):
+def pos_path_to_root(token):
     result = []
     curr = token
     while True:
@@ -136,16 +137,30 @@ def path_to_root(token):
         curr = curr.head
 
 
+def ne_path_to_root(token):
+    result = []
+    curr = token
+    while True:
+        result.append("%s_%s" % (curr.ent_type_, curr.dep_))
+        if str(curr.dep_) == "ROOT":
+            return "->".join(result)
+        curr = curr.head
+
+
 def dependency_path_features(np, sent_num, sents, unique_question_words, q_parsed):
     result = set()
-    right_path = path_to_root(np.root)
-    for i in xrange(3):
-        q_word = q_parsed[i].orth_
+    right_pos_path = pos_path_to_root(np.root)
+    right_ne_path = ne_path_to_root(np.root)
+    for i, q_word in enumerate(q_parsed[:3]):
+        q_word = q_word.orth_
         for word in sents[sent_num]:
             if word.orth_.lower() in unique_question_words:
-                left_path = path_to_root(word)
-                result.add(get_feat_num("DEP_PATH_%d_%s_%s_%s" %
-                                        (i, q_word, left_path, right_path)))
+                left_pos_path = pos_path_to_root(word)
+                left_ne_path = ne_path_to_root(word)
+                result.add(get_feat_num("POS_DEP_PATH_%d_%s_%s_%s" %
+                                        (i, q_word, left_pos_path, right_pos_path)))
+                result.add(get_feat_num("NE_DEP_PATH_%d_%s_%s_%s" %
+                                        (i, q_word, left_ne_path, right_ne_path)))
     return result
 
 
@@ -206,16 +221,16 @@ def left_right_context(np, sent_num, sent_boundaries, c_parsed, q_parsed, featur
     # also expanding to the whole question reduced accuracy
     left_words = [c_parsed[np.start - i] for i in xrange(1, 6)
                   if np.start - i >= sent_boundaries[sent_num][0]]
-    for i in xrange(3):
-        q_word = q_parsed[i].orth_
+    for i, q_word in enumerate(q_parsed[:3]):
+        q_word = q_word.orth_
         for j, token in enumerate(reversed(left_words)):
             features.append(get_feat_num("LEFT_WORD_CONTEXT_%d_%s_%d_%s" %
                                          (i, q_word, j, token.orth_.lower())))
 
     right_words = [c_parsed[np.end + i] for i in xrange(5)
                    if np.end + i < sent_boundaries[sent_num][1]]
-    for i in xrange(3):
-        q_word = q_parsed[i].orth_
+    for i, q_word in enumerate(q_parsed[:3]):
+        q_word = q_word.orth_
         for j, token in enumerate(right_words):
             features.append(get_feat_num("RIGHT_WORD_CONTEXT_%d_%s_%d_%s"
                                          % (i, q_word, j, token.orth_.lower())))
@@ -233,6 +248,16 @@ def np_words_in_question(np, unique_question_words, unique_question_bigrams):
     for gram in grams:
         if gram in unique_question_words:
             features.append(get_feat_num("NP_BIGRAM_IN_QUESTION"))
+
+    return result
+
+
+def np_contains_stop(np):
+    result = set()
+
+    for token in np:
+        if token.is_stop:
+            result.add(get_feat_num("NP_CONTAINS_STOP"))
 
     return result
 
@@ -427,7 +452,7 @@ def generate_features(data):
     result = []
     ids = []
     global parser
-    for topic in data['data']:
+    for topic in tqdm(data['data']):
         for pgraph in topic['paragraphs']:
             token_dict = {}
             context = pgraph['context']
@@ -452,7 +477,7 @@ def generate_features(data):
                 answer_start = ans['answer_start']
                 answer_text = ans['text']
 
-                sims = calc_sent_quest_sim(c_parsed, q_parsed)
+                sent_sims = calc_sent_quest_sim(c_parsed, q_parsed)
                 tf_idfs = calc_sent_tf_idf(c_parsed, unique_question_words,
                                             unique_question_bigrams)
 
@@ -461,6 +486,8 @@ def generate_features(data):
                     label = 0
                     # mult is number of times item appears in train file
                     # somewhat arbitrary but improves accuracy
+                    # try sampling negative instances
+                    # also maybe check if words are correct but in wrong position
                     mult = 1
                     if np.start_char <= answer_start and np.end_char > answer_start:
                         label = 1
@@ -471,7 +498,7 @@ def generate_features(data):
                     sent_num = get_sent_num(np, sent_boundaries)
 
                     # tf-idf and similarity features
-                    sent_sim_features(sent_num, sims, features)
+                    sent_sim_features(sent_num, sent_sims, features)
                     sent_tf_idf_features(sent_num, tf_idfs, features)
                     np_tf_idf_features(np_num, np_tf_idfs, features)
 
@@ -483,6 +510,9 @@ def generate_features(data):
                     left_right_in_question(np, sent_num, sent_boundaries,
                                             c_parsed, unique_question_words,
                                             unique_question_bigrams, features)
+
+                    # whether or not np words appear in question
+                    features += np_contains_stop(np)
 
                     # whether or not np words appear in question
                     features += np_words_in_question(np, unique_question_words,
@@ -515,7 +545,8 @@ def generate_features(data):
                     # question root matches context
                     # question entities match context
                     # question entities dependency path to span
-                    # question to span similarity
+                    # dependency paths with actual words instead of pos
+                    # question to span similarity, didn't work
                     # span length features appear not to work
 
                     if _TEST:
@@ -546,7 +577,7 @@ def main():
         train_data = json.load(fp)
     with open(dev_fn) as fp:
         dev_data = json.load(fp)
-    # dont know if idfs should be done for both training and test data
+
     get_idfs(train_data)
     get_idfs(dev_data)
 
@@ -557,13 +588,11 @@ def main():
         for line in train_features:
             fp.write(line + '\n')
 
-    write_feature_key()
+    # write_feature_key()
 
     _TEST = True
 
     dev_feat_fn = "np_dev_features.txt"
-    # dont know if this should be done for both training and test data
-    # get_idfs(data)
 
     dev_features, ids = generate_features(dev_data)
 
