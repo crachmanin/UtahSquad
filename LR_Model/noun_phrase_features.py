@@ -98,69 +98,58 @@ def normalize_list(l1):
     return result
 
 
-def quest_wh_word_features(unique_question_words):
-    result = []
-    year_in_question = "year" in unique_question_words
-    when_in_question = "when" in unique_question_words
-    who_in_question = "who" in unique_question_words
-    where_in_question = "where" in unique_question_words
-    many_in_question = "many" in unique_question_words
+def wh_ent_features(np, q_parsed, features):
+    for i in xrange(3):
+        q_word = q_parsed[i].orth_
+        features.append(get_feat_num("Q_WORD_NP_ENT_%d_%s_%s" % (i, q_word, np.label_)))
 
-    if year_in_question:
-        year_in_question_feat_num = get_feat_num("YEAR_IN_QUESTION")
-        result.append(year_in_question_feat_num)
-    if when_in_question:
-        when_in_question_feat_num = get_feat_num("WHEN_IN_QUESTION")
-        result.append(when_in_question_feat_num)
-    if who_in_question:
-        who_in_question_feat_num = get_feat_num("WHO_IN_QUESTION")
-        result.append(who_in_question_feat_num)
-    if where_in_question:
-        where_in_question_feat_num = get_feat_num("WHERE_IN_QUESTION")
-        result.append(where_in_question_feat_num)
-    if many_in_question:
-        many_in_question_feat_num = get_feat_num("MANY_IN_QUESTION")
-        result.append(many_in_question_feat_num)
+
+def span_pos_features(np, q_parsed, features):
+    for i in xrange(3):
+        q_word = q_parsed[i].orth_
+        for j, token in enumerate(list(np)):
+            features.append(get_feat_num("Q_WORD_NP_POS_%d_%d_%s_%s" %
+                                         (i, j, q_word, token.pos_)))
+
+
+def lexicalized_lemma_features(np, q_parsed):
+    result = set()
+    for q_word in q_parsed:
+        for i, np_token in enumerate(np):
+            result.add(get_feat_num("LEX_LEMMA_%s_%s" %
+                                         (q_word.lemma_, np_token.lemma_)))
+            head1 = np.root.head.lemma_
+            dep1 = np.root.dep_
+            head2 = np.root.head.head.lemma_
+            dep2 = np.root.head.dep_
+            result.add(get_feat_num("LEX_LEMMA_DEP1%s_%s->%s" %
+                                         (q_word.lemma_, head1, dep1)))
+            result.add(get_feat_num("LEX_LEMMA_DEP2%s_%s->%s" %
+                                         (q_word.lemma_, head2, dep2)))
 
     return result
 
 
-def sent_entity_features(sents, sent_num, features):
-    sent = sents[sent_num]
+def dependency_path_features(np, sent_num, sents, unique_question_words):
+    result = set()
+    # for word in sents[sent_num]:
+        # if word in unique_question_words:
+            # result.add(get_feat_num("LEX_LEMMA_%s_%s" %
+                                         # (q_word.lemma_, np_token.lemma_)))
+            # head1 = np.root.head.lemma_
+            # dep1 = np.root.dep_
+            # head2 = np.root.head.head.lemma_
+            # dep2 = np.root.head.dep_
+            # result.add(get_feat_num("LEX_LEMMA_DEP1%s_%s->%s" %
+                                         # (q_word.lemma_, head1, dep1)))
+            # result.add(get_feat_num("LEX_LEMMA_DEP2%s_%s->%s" %
+                                         # (q_word.lemma_, head2, dep2)))
 
-    year_in_sent = False
-    date_in_sent = False
-    person_in_sent = False
-    location_in_sent = False
-    number_in_sent = False
+    return result
 
-    for word in sent:
-        if word.is_digit and len(word.orth_) == 4:
-            year_in_sent = True
-        if word.ent_type_ == "DATE":
-            date_in_sent = True
-        if word.ent_type_ == "PERSON":
-            person_in_sent = True
-        if word.ent_type_ == "LOCATION":
-            location_in_sent = True
-        if word.like_num:
-            number_in_sent = True
 
-    if year_in_sent:
-        year_in_sent_feat_num = get_feat_num("YEAR_IN_SENT")
-        features.append(year_in_sent_feat_num)
-    if date_in_sent:
-        date_in_sent_feat_num = get_feat_num("DATE_IN_SENT")
-        features.append(date_in_sent_feat_num)
-    if person_in_sent:
-        person_in_sent_feat_num = get_feat_num("PERSON_IN_SENT")
-        features.append(person_in_sent_feat_num)
-    if location_in_sent:
-        location_in_sent_feat_num = get_feat_num("LOCATION_IN_SENT")
-        features.append(location_in_sent_feat_num)
-    if number_in_sent:
-        number_in_sent_feat_num = get_feat_num("NUMBER_IN_SENT")
-        features.append(number_in_sent_feat_num)
+def span_length_features(np, features):
+    features.append(get_feat_num("NP_LEN_%d" % (len(np))))
 
 
 def root_features(sents, sent_num, question_root, unique_question_words, features):
@@ -187,7 +176,7 @@ def root_features(sents, sent_num, question_root, unique_question_words, feature
 def left_right_in_question(np, sent_num, sent_boundaries, c_parsed,
                            unique_question_words, unique_question_bigrams, features):
 
-    left_words = [c_parsed[np.start - i].orth_ for i in xrange(1, 6)
+    left_words = [c_parsed[np.start - i].orth_.lower() for i in xrange(1, 6)
                   if np.start - i >= sent_boundaries[sent_num][0]]
     for i, token in enumerate(reversed(left_words)):
         if token in unique_question_words:
@@ -198,7 +187,7 @@ def left_right_in_question(np, sent_num, sent_boundaries, c_parsed,
         if bigram in unique_question_words:
             features.append(get_feat_num("LEFT_BIGRAM_%d_IN_QUESTION" % i))
 
-    right_words = [c_parsed[np.end + i].orth_ for i in xrange(5)
+    right_words = [c_parsed[np.end + i].orth_.lower() for i in xrange(5)
                    if np.end + i < sent_boundaries[sent_num][1]]
     for i, token in enumerate(right_words):
         if token in unique_question_bigrams:
@@ -210,9 +199,30 @@ def left_right_in_question(np, sent_num, sent_boundaries, c_parsed,
             features.append(get_feat_num("RIGHT_BIGRAM_%d_IN_QUESTION" % i))
 
 
+def left_right_context(np, sent_num, sent_boundaries, c_parsed, q_parsed, features):
+    # adding POS info reduced accuracy by around .4
+    # using lemmas in addition also did not help
+    # also expanding to the whole question reduced accuracy
+    left_words = [c_parsed[np.start - i] for i in xrange(1, 6)
+                  if np.start - i >= sent_boundaries[sent_num][0]]
+    for i in xrange(3):
+        q_word = q_parsed[i].orth_
+        for j, token in enumerate(reversed(left_words)):
+            features.append(get_feat_num("LEFT_WORD_CONTEXT_%d_%s_%d_%s" %
+                                         (i, q_word, j, token.orth_)))
+
+    right_words = [c_parsed[np.end + i] for i in xrange(5)
+                   if np.end + i < sent_boundaries[sent_num][1]]
+    for i in xrange(3):
+        q_word = q_parsed[i].orth_
+        for j, token in enumerate(right_words):
+            features.append(get_feat_num("RIGHT_WORD_CONTEXT_%d_%s_%d_%s"
+                                         % (i, q_word, j, token.orth_)))
+
+
 def np_words_in_question(np, unique_question_words, unique_question_bigrams):
     result = set()
-    words = [token.orth_ for token in np]
+    words = [token.orth_.lower() for token in np]
     grams = bigrams(words)
 
     for token in words:
@@ -259,23 +269,26 @@ def sent_sim_features(sent_num, sims, features):
 
 
 def calc_sent_tf_idf(c_parsed, unique_question_words, unique_question_bigrams):
-    total_words = len(c_parsed)
-    total_bigrams = total_words - 1
-
     sent_word_tf_idfs = []
     sent_bigram_tf_idfs = []
 
     for sent_num, sent in enumerate(c_parsed.sents):
         sent_words = [token.orth_.lower() for token in sent]
         sent_bigrams = bigrams(sent_words)
+
+        total_words = len(sent_words)
+        total_bigrams = total_words - 1
+
         unique_sent_words = set(sent_words)
         unique_sent_bigrams = set(sent_bigrams)
 
         word_tf_counter = Counter(sent_words)
         bigram_tf_counter = Counter(sent_bigrams)
+
         sent_word_tf_idf = sum(word_tf_idf(word, word_tf_counter, total_words)
                                 for word in unique_sent_words if word in unique_question_words)
         sent_word_tf_idfs.append(sent_word_tf_idf)
+
         sent_bigram_tf_idf = sum(bigram_tf_idf(bigram, bigram_tf_counter, total_bigrams)
                                 for bigram in unique_sent_bigrams if bigram in unique_question_bigrams)
         sent_bigram_tf_idfs.append(sent_bigram_tf_idf)
@@ -337,6 +350,40 @@ def get_all_nps(c_parsed):
     return filtered_nps
 
 
+def calc_np_tf_idfs(all_nps):
+    word_tf_idfs = []
+    bigram_tf_idfs = []
+    for np in all_nps:
+        np_words = [token.orth_.lower() for token in np]
+        np_bigrams = bigrams(np_words)
+
+        total_words = len(np_words)
+        total_bigrams = total_words - 1
+
+        unique_np_words = set(np_words)
+        unique_np_bigrams = set(np_bigrams)
+
+        word_tf_counter = Counter(np_words)
+        bigram_tf_counter = Counter(np_bigrams)
+
+        w_tf_idf = sum(word_tf_idf(word, word_tf_counter, total_words)
+                          for word in unique_np_words)
+        word_tf_idfs.append(w_tf_idf)
+        b_tf_idf = sum(bigram_tf_idf(bigram, bigram_tf_counter, total_bigrams)
+                            for bigram in unique_np_bigrams)
+        bigram_tf_idfs.append(b_tf_idf)
+
+    return normalize_list(word_tf_idfs), normalize_list(bigram_tf_idfs)
+
+
+def np_tf_idf_features(np_num, np_tf_idfs, features):
+    np_word_tf_idfs, np_bigram_tf_idfs = np_tf_idfs
+    np_word_tf_idf = np_word_tf_idfs[np_num]
+    np_bigram_tf_idf = np_bigram_tf_idfs[np_num]
+    features.append(get_feat_num("NP_WORD_TF_IDF_%d" % np_word_tf_idf))
+    features.append(get_feat_num("NP_BIGRAM_TF_IDF_%d" % np_bigram_tf_idf))
+
+
 def libsvm_features(label, features):
     features = [feat for feat in sorted(features) if feat]
     libsvm_features = " ".join(["%d:1" % feat_num for feat_num in features])
@@ -352,7 +399,9 @@ def generate_features(data):
             token_dict = {}
             context = pgraph['context']
             c_parsed = parser(context)
+            # maybe try enumerating all possible spans instead of nps
             all_nps = get_all_nps(c_parsed)
+            np_tf_idfs = calc_np_tf_idfs(all_nps)
             sents = list(c_parsed.sents)
             sent_boundaries = get_sent_boundaries(c_parsed)
 
@@ -374,21 +423,24 @@ def generate_features(data):
                 tf_idfs = calc_sent_tf_idf(c_parsed, unique_question_words,
                                             unique_question_bigrams)
 
-                quest_features = quest_wh_word_features(
-                    unique_question_words)
-
-                for np in all_nps:
+                for np_num, np in enumerate(all_nps):
                     features = []
                     label = 0
-                    if np.start_char == answer_start and np.orth_ == answer_text:
+                    # mult is number of times item appears in train file
+                    # somewhat arbitrary but improves accuracy
+                    mult = 1
+                    if np.start_char <= answer_start and np.end_char > answer_start:
                         label = 1
+                        mult = 4
+                    if np.start_char == answer_start and np.orth_ == answer_text:
+                        mult = 20
 
                     sent_num = get_sent_num(np, sent_boundaries)
 
                     sent_sim_features(sent_num, sims, features)
                     sent_tf_idf_features(sent_num, tf_idfs, features)
+                    np_tf_idf_features(np_num, np_tf_idfs, features)
 
-                    sent_entity_features(sents, sent_num, features)
                     root_features(sents, sent_num, question_root,
                                     unique_question_words, features)
 
@@ -396,18 +448,28 @@ def generate_features(data):
                                             c_parsed, unique_question_words,
                                             unique_question_bigrams, features)
 
-                    features += quest_features
                     features += np_words_in_question(np, unique_question_words,
                                                      unique_question_bigrams)
 
-                    # add features for first 3 question words
-                    # add features for entity type of np
-                    # add features for year, number in np
-                    # add features for lexicalized and dependency paths
+                    features += lexicalized_lemma_features(np, q_parsed)
+                    wh_ent_features(np, q_parsed, features)
+                    span_pos_features(np, q_parsed, features)
+                    left_right_context(np, sent_num, sent_boundaries, c_parsed,
+                                       q_parsed, features)
 
-                    result.append(libsvm_features(label, features))
+                    # add features for lexicalized and dependency paths
+                    # feature for dependency link to question root
+                    # feature for dependency link to question entities
+                    # add phi and omega?
+                    # add joint span context with first 3 words/ redundant with lexicalized?
+                    # span length features appear not to work
+
                     if _TEST:
                         ids.append("%s\t%s" % (question_id, np.orth_.replace('\n', "\\n")))
+                        result.append(libsvm_features(label, features))
+                    else:
+                        for i in xrange(mult):
+                            result.append(libsvm_features(label, features))
     return result, ids
 
 
@@ -415,7 +477,7 @@ def write_feature_key():
     with open("features.key", 'w') as fp:
         for feat_str, idx in sorted([item for item in FEATURE_DICT.items()],
                                     key=lambda x: x[1]):
-            fp.write("%d\t%s\n" % (idx, feat_str))
+            fp.write(("%d\t%s\n" % (idx, feat_str)).encode("utf-8"))
 
 
 def main():
