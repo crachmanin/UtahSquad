@@ -445,12 +445,13 @@ def np_tf_idf_features(np_num, np_tf_idfs, features):
 def libsvm_features(label, features):
     features = [feat for feat in sorted(features) if feat]
     libsvm_features = " ".join(["%d:1" % feat_num for feat_num in features])
-    return "%d " % label + libsvm_features
+    return "%d " % label + libsvm_features + '\n'
 
 
-def generate_features(data):
+def generate_features(data, feat_fn):
     result = []
     ids = []
+    fp = open(feat_fn, 'w')
     global parser
     for topic in tqdm(data['data']):
         for pgraph in topic['paragraphs']:
@@ -488,12 +489,13 @@ def generate_features(data):
                     # somewhat arbitrary but improves accuracy
                     # try sampling negative instances
                     # also maybe check if words are correct but in wrong position
-                    mult = 1
-                    if np.start_char <= answer_start and np.end_char > answer_start:
-                        label = 1
-                        mult = 4
-                    if np.start_char == answer_start and np.orth_ == answer_text:
-                        mult = 20
+                    if not _TEST:
+                        mult = 1
+                        if np.start_char <= answer_start and np.end_char > answer_start:
+                            label = 1
+                            mult = 4
+                        if np.start_char == answer_start and np.orth_ == answer_text:
+                            mult = 20
 
                     sent_num = get_sent_num(np, sent_boundaries)
 
@@ -551,11 +553,12 @@ def generate_features(data):
 
                     if _TEST:
                         ids.append("%s\t%s" % (question_id, np.orth_.replace('\n', "\\n")))
-                        result.append(libsvm_features(label, features))
+                        fp.write(libsvm_features(label, features))
                     else:
                         for i in xrange(mult):
-                            result.append(libsvm_features(label, features))
-    return result, ids
+                            fp.write(libsvm_features(label, features))
+    fp.close()
+    return ids
 
 
 def write_feature_key():
@@ -581,12 +584,8 @@ def main():
     get_idfs(train_data)
     get_idfs(dev_data)
 
-    train_data['data'] = train_data['data'][:10]
-    train_features, ids = generate_features(train_data)
-
-    with open(train_feat_fn, 'w') as fp:
-        for line in train_features:
-            fp.write(line + '\n')
+    # train_data['data'] = train_data['data'][:10]
+    ids = generate_features(train_data, train_feat_fn)
 
     # write_feature_key()
 
@@ -594,11 +593,7 @@ def main():
 
     dev_feat_fn = "np_dev_features.txt"
 
-    dev_features, ids = generate_features(dev_data)
-
-    with open(dev_feat_fn, 'w') as fp:
-        for line in dev_features:
-            fp.write(line + '\n')
+    ids = generate_features(dev_data, dev_feat_fn)
 
     id_fn = "np_dev_ids.txt"
     with open(id_fn, 'w') as fp:
