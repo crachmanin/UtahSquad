@@ -1,7 +1,6 @@
 from sklearn.svm import LinearSVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.datasets import load_svmlight_file
-import numpy as np
 import sklearn
 import json
 from itertools import groupby
